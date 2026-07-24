@@ -1,0 +1,947 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>🎭 Prado Guía • Isaac y Jacob</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&amp;family=Inter:wght@300;400;500&amp;family=Space+Grotesk:wght@500;600&amp;display=swap');
+        
+        :root {
+            --baroque-red: #9c2f2f;
+            --baroque-blue: #2a4a6f;
+        }
+        
+        body {
+            font-family: 'Inter', system_ui, sans-serif;
+        }
+        
+        .heading-serif {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-weight: 700;
+            line-height: 1.05;
+        }
+
+        .section-header {
+            font-family: 'Space Grotesk', system_ui, -apple-system, sans-serif;
+            letter-spacing: -.025em;
+        }
+
+        .baroque-bg {
+            background: linear-gradient(#1f1611, #2c211b);
+        }
+
+        .prado-gold {
+            color: #d4af77;
+        }
+
+        .theater-spotlight {
+            box-shadow: 0 0 60px rgba(234, 179, 8, 0.15),
+                        inset 0 0 80px rgba(0, 0, 0, 0.6);
+        }
+
+        .painting-frame {
+            box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.4),
+                        0 10px 10px -6px rgb(0 0 0 / 0.4),
+                        inset 0 0 0 12px #3f2e24,
+                        inset 0 0 0 20px #5c4637;
+            transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .painting-frame:hover {
+            transform: scale(1.015);
+        }
+
+        .nav-active {
+            background-color: #3f2e24;
+            color: #d4af77;
+            border-bottom: 3px solid #d4af77;
+        }
+
+        .drama-card {
+            transition: all 0.3s cubic-bezier(0.4, 0.0, 0.2, 1);
+        }
+
+        .drama-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 20px 25px -12px rgb(0 0 0 / 0.15), 0 10px 10px -6px rgb(0 0 0 / 0.1);
+        }
+
+        .baroque-red {
+            color: #9c2f2f;
+        }
+
+        .baroque-blue {
+            color: #2a4a6f;
+        }
+
+        .light-beam {
+            position: relative;
+            overflow: hidden;
+        }
+
+        .light-beam::after {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -20%;
+            width: 40%;
+            height: 200%;
+            background: linear-gradient(
+                135deg,
+                transparent 20%,
+                rgba(234, 179, 8, 0.12) 45%,
+                transparent 70%
+            );
+            transform: skewX(-25deg);
+            animation: spotlight-sweep 8s ease infinite;
+        }
+
+        @keyframes spotlight-sweep {
+            0%, 100% { transform: translateX(-80%) skewX(-25deg); }
+            50% { transform: translateX(120%) skewX(-25deg); }
+        }
+
+        .script-text {
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+
+        .nav-bottom {
+            box-shadow: 0 -4px 6px -1px rgb(0 0 0 / 0.1);
+        }
+
+        .museum-card {
+            background: #2c211b;
+        }
+
+        .detail-item {
+            transition: background-color .2s ease;
+        }
+
+        .detail-item:hover {
+            background-color: #3f2e24;
+        }
+
+        .timeline-dot {
+            box-shadow: 0 0 0 4px #3f2e24;
+        }
+
+        .prado-header {
+            background: #1f1611;
+            box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.25);
+        }
+
+        .section-title {
+            font-size: 1.35rem;
+            line-height: 1.1;
+            font-weight: 700;
+            letter-spacing: -.03em;
+        }
+
+        .metric {
+            font-size: 0.875rem;
+            font-weight: 600;
+        }
+
+        .mini-map {
+            background: #1f1611;
+            border: 3px solid #5c4637;
+        }
+
+        .tab-button {
+            transition: all 0.2s ease;
+        }
+
+        .highlight-box {
+            background: linear-gradient(145deg, #3f2e24, #2c211b);
+            box-shadow: inset 0 2px 4px 0 rgb(0 0 0 / 0.3);
+        }
+
+        .mobile-friendly {
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        .fact-pill {
+            background: #3f2e24;
+            font-size: 0.75rem;
+            padding: 1px 9px;
+            border-radius: 9999px;
+        }
+
+        .theater-label {
+            font-size: 10px;
+            letter-spacing: 0.5px;
+            font-weight: 700;
+        }
+        
+        .audio-btn {
+            transition: all .2s ease;
+        }
+        
+        .audio-btn.playing {
+            background-color: #9c2f2f;
+            color: white;
+        }
+
+        .artwork-container {
+            box-shadow: 12px 25px 40px -15px rgb(0 0 0 / .45),
+                        -4px 15px 20px -10px rgb(0 0 0 / .25);
+        }
+    </style>
+</head>
+<body class="bg-[#1f1611] text-[#e8d5b7] mobile-friendly">
+    <!-- HEADER -->
+    <header class="sticky top-0 z-50 prado-header border-b border-[#5c4637]">
+        <div class="max-w-screen-xl mx-auto">
+            <div class="px-4 py-3 flex items-center justify-between">
+                <div class="flex items-center gap-x-3">
+                    <!-- Logo -->
+                    <div class="flex items-center gap-x-2">
+                        <div class="w-10 h-10 bg-[#d4af77] flex items-center justify-center rounded-full shadow-inner">
+                            <i class="fa-solid fa-landmark text-[#1f1611] text-3xl"></i>
+                        </div>
+                        <div>
+                            <span class="font-bold text-2xl tracking-tighter">Prado</span>
+                            <span class="font-bold text-xl text-[#d4af77]">Guía</span>
+                        </div>
+                    </div>
+                    
+                    <div class="hidden sm:flex items-center px-3 py-1 bg-[#3f2e24] rounded-full text-xs font-semibold">
+                        <i class="fa-solid fa-map-marker-alt mr-1.5 text-[#d4af77]"></i>
+                        <span class="text-[#d4af77]">Sala 009</span>
+                    </div>
+                </div>
+                
+                <div class="flex items-center gap-x-2">
+                    <!-- User / Friends -->
+                    <div class="flex items-center -space-x-1">
+                        <div class="w-7 h-7 bg-[#d4af77] rounded-full border-2 border-[#1f1611] flex items-center justify-center text-xs font-bold text-[#1f1611]">T</div>
+                        <div class="w-7 h-7 bg-[#9c2f2f] rounded-full border-2 border-[#1f1611] flex items-center justify-center text-xs font-bold text-white">A</div>
+                        <div class="w-7 h-7 bg-[#2a4a6f] rounded-full border-2 border-[#1f1611] flex items-center justify-center text-xs font-bold text-white">M</div>
+                    </div>
+                    
+                    <div onclick="showShareModal()" class="px-3 py-1.5 text-xs flex items-center gap-x-1.5 font-semibold bg-[#3f2e24] hover:bg-[#5c4637] transition-colors rounded-3xl cursor-pointer">
+                        <i class="fa-solid fa-share-alt text-xs"></i>
+                        <span class="hidden xs:inline text-xs">Compartir</span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Title bar -->
+            <div class="px-4 pb-3 flex items-end justify-between">
+                <div>
+                    <div class="flex items-center gap-x-2">
+                        <h1 class="text-3xl leading-none font-extrabold heading-serif tracking-tighter">Isaac bendiciendo a Jacob</h1>
+                    </div>
+                    <p class="text-[#d4af77] font-semibold text-sm mt-0.5">José de Ribera • 1637</p>
+                </div>
+                
+                <div class="text-right">
+                    <div class="flex items-center justify-end gap-x-[3px]">
+                        <div class="px-2.5 py-1 bg-[#3f2e24] text-xs font-bold rounded-2xl flex items-center gap-x-1">
+                            <i class="fa-solid fa-clock text-[#d4af77]"></i>
+                            <span class="font-mono text-xs">2:12</span>
+                        </div>
+                    </div>
+                    <div class="text-[10px] text-[#9c8f7b] mt-px tracking-wider">110 × 291.5 cm</div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- HERO / PAINTING -->
+    <div class="max-w-screen-xl mx-auto px-4 pt-4 pb-1">
+        <div class="relative">
+            <!-- Main Artwork -->
+            <div class="painting-frame mx-auto max-w-[100%] bg-[#2c211b] rounded-[22px] overflow-hidden border border-[#5c4637] artwork-container" style="max-width: 980px;">
+                <div class="relative">
+                    <!-- Image -->
+                    <img id="main-painting" 
+                         src="images/Isaac-y-Jacob.jpg" 
+                         alt="Isaac bendiciendo a Jacob - José de Ribera (1637). Pintura barroca sin marca de agua en el Museo del Prado (versión adjunta). Formato panorámico apaisado mostrando a Isaac ciego bendiciendo a Jacob mientras Rebeca observa desde la sombra."
+                         class="w-full aspect-[2.05/1] object-cover">
+                    
+                    <!-- Theater overlay badges -->
+                    <div class="absolute top-3 left-3 px-3 py-1 rounded-3xl bg-black/70 flex items-center text-[10px] font-extrabold tracking-widest">
+                        <i class="fa-solid fa-theater-masks mr-1.5"></i>
+                        <span>BLACK BOX</span>
+                    </div>
+                    
+                    <div class="absolute top-3 right-3 px-2.5 py-[3px] text-center bg-black/70 backdrop-blur-sm rounded-[2rem] px-3 text-xs flex items-center justify-center">
+                        <div>
+                            <span class="block font-extrabold leading-none text-[#d4af77] text-[9px]">SALA 009</span>
+                        </div>
+                    </div>
+                    
+                    <!-- Light indicators -->
+                    <div class="absolute bottom-3 left-3 flex items-center gap-x-1.5">
+                        <div onclick="highlightLighting()" class="cursor-pointer flex items-center text-xs px-2 py-[1px] bg-black/60 backdrop-blur-sm rounded-[2rem]">
+                            <div class="w-2.5 h-2.5 bg-yellow-400 rounded-full animate-pulse mr-1.5"></div>
+                            <span class="font-bold text-xs">Key Light</span>
+                        </div>
+                    </div>
+                    
+                    <!-- Audio cue -->
+                    <div onclick="playAudioGuide(0)" class="cursor-pointer absolute bottom-3 right-3 px-3 py-1 bg-black/70 backdrop-blur-sm flex items-center gap-x-2 text-xs font-semibold rounded-[2rem]">
+                        <i class="fa-solid fa-play text-[#d4af77] fa-sm"></i>
+                        <span class="font-bold">Escuchar</span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Image caption -->
+            <div class="flex justify-center mt-2.5">
+                <div class="flex items-center bg-[#2c211b] text-xs font-medium px-3.5 h-7 rounded-3xl border border-[#5c4637]">
+                    <span class="text-[#d4af77]">Formato panorámico • Escena teatral</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- QUICK STATS -->
+    <div class="max-w-screen-xl mx-auto px-4 pt-2 pb-5">
+        <div class="grid grid-cols-4 gap-2">
+            <div class="bg-[#2c211b] border border-[#5c4637] rounded-3xl p-2 text-center">
+                <div class="text-[#9c8f7b] text-[10px] font-bold">AÑO</div>
+                <div class="font-extrabold text-xl tracking-tight">1637</div>
+            </div>
+            <div class="bg-[#2c211b] border border-[#5c4637] rounded-3xl p-2 text-center">
+                <div class="text-[#9c8f7b] text-[10px] font-bold">FORMATO</div>
+                <div class="font-extrabold text-xl tracking-tight">Apaisado</div>
+            </div>
+            <div class="bg-[#2c211b] border border-[#5c4637] rounded-3xl p-2 text-center">
+                <div class="text-[#9c8f7b] text-[10px] font-bold">UBICACIÓN</div>
+                <div class="font-extrabold text-xl tracking-tighter">Sala 009</div>
+            </div>
+            <div class="bg-[#2c211b] border border-[#5c4637] rounded-3xl p-2 text-center">
+                <div class="text-[#9c8f7b] text-[10px] font-bold">TÉCNICA</div>
+                <div class="font-extrabold text-lg leading-5">Óleo / Lienzo</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- NAV TABS -->
+    <div class="max-w-screen-xl mx-auto px-4">
+        <div class="flex bg-[#2c211b] border border-[#5c4637] rounded-[3rem] p-1 mb-5 shadow-inner">
+            <div onclick="switchTab(0)" class="tab-button flex-1 flex items-center justify-center py-[7px] px-4 text-sm font-extrabold rounded-[3rem] cursor-pointer nav-active" id="tab-0">
+                <i class="fa-solid fa-book mr-2"></i>
+                <span>Historia</span>
+            </div>
+            <div onclick="switchTab(1)" class="tab-button flex-1 flex items-center justify-center py-[7px] px-4 text-sm font-extrabold rounded-[3rem] cursor-pointer" id="tab-1">
+                <i class="fa-solid fa-lightbulb mr-2"></i>
+                <span>Iluminación</span>
+            </div>
+            <div onclick="switchTab(2)" class="tab-button flex-1 flex items-center justify-center py-[7px] px-4 text-sm font-extrabold rounded-[3rem] cursor-pointer" id="tab-2">
+                <i class="fa-solid fa-palette mr-2"></i>
+                <span>Colores</span>
+            </div>
+            <div onclick="switchTab(3)" class="tab-button flex-1 flex items-center justify-center py-[7px] px-4 text-sm font-extrabold rounded-[3rem] cursor-pointer" id="tab-3">
+                <i class="fa-solid fa-microphone-alt mr-2"></i>
+                <span>Guiones</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- TAB CONTENTS -->
+    <div class="max-w-screen-xl mx-auto px-4 pb-16">
+        
+        <!-- TAB 0: HISTORIA -->
+        <div id="content-0" class="tab-content">
+            <div class="mb-5">
+                <h2 class="section-title">La historia en 30 segundos</h2>
+                <div class="mt-1 text-sm text-[#c9b89c]">Génesis 27</div>
+            </div>
+            
+            <div class="prose prose-invert text-[#e8d5b7]">
+                <div class="bg-[#2c211b] border border-[#5c4637] p-5 rounded-3xl">
+                    <p class="leading-relaxed text-[15.2px]">
+                        Isaac, viejo y ciego, va a morir. Llama a su hijo mayor <span class="font-semibold">Esaú</span> (cazador) para que le traiga caza y darle su bendición.
+                    </p>
+                    
+                    <div class="my-4 flex items-center">
+                        <div class="flex-1 h-px bg-[#5c4637]"></div>
+                        <div class="px-3 text-xs font-black text-[#d4af77]">TRAMA</div>
+                        <div class="flex-1 h-px bg-[#5c4637]"></div>
+                    </div>
+                    
+                    <p class="leading-relaxed text-[15px]">
+                        <span class="font-semibold">Rebeca</span> (su mujer) oye todo. Su favorito es el pequeño <span class="font-semibold">Jacob</span>. 
+                        Mientras Esaú caza, ella cocina <span class="font-semibold text-[#d4af77]">dos cabritos</span> haciéndolos pasar por caza, 
+                        viste a Jacob con pieles de cabrito en brazos y cuello, y lo manda a engañar a su padre ciego.
+                    </p>
+                    
+                    <div class="mt-4 p-3 bg-[#3f2e24] border border-[#5c4637] rounded-2xl flex items-center gap-x-3 text-sm">
+                        <div>
+                            <i class="fa-solid fa-theater-masks text-[#d4af77]"></i>
+                        </div>
+                        <div class="text-xs flex-1">
+                            <span class="font-extrabold">Isaac, tocando y comiendo, le da la bendición.</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Characters -->
+            <div class="grid grid-cols-3 gap-2 mt-1">
+                <div class="drama-card bg-[#2c211b] border border-[#5c4637] rounded-3xl p-3">
+                    <div class="flex items-center gap-x-2">
+                        <div class="w-7 h-7 rounded-full bg-[#9c2f2f] flex items-center justify-center flex-shrink-0">
+                            <i class="fa-solid fa-user text-white text-sm"></i>
+                        </div>
+                        <div class="flex-1 min-w-0">
+                            <div class="text-xs font-bold">ISAAC</div>
+                            <div class="text-[#9c8f7b] text-xs">Ciego • Patriarca</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="drama-card bg-[#2c211b] border border-[#5c4637] rounded-3xl p-3">
+                    <div class="flex items-center gap-x-2">
+                        <div class="w-7 h-7 rounded-full bg-[#2a4a6f] flex items-center justify-center flex-shrink-0">
+                            <i class="fa-solid fa-user text-white text-sm"></i>
+                        </div>
+                        <div class="flex-1 min-w-0">
+                            <div class="text-xs font-bold">JACOB</div>
+                            <div class="text-[#9c8f7b] text-xs">El intruso</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="drama-card bg-[#2c211b] border border-[#5c4637] rounded-3xl p-3">
+                    <div class="flex items-center gap-x-2">
+                        <div class="w-7 h-7 rounded-full bg-[#d4af77] flex items-center justify-center flex-shrink-0">
+                            <i class="fa-solid fa-user text-[#1f1611] text-sm"></i>
+                        </div>
+                        <div class="flex-1 min-w-0">
+                            <div class="text-xs font-bold">REBECA</div>
+                            <div class="text-[#9c8f7b] text-xs">Directora</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="mt-5 px-1">
+                <div onclick="playAudioGuide(1)" class="flex items-center cursor-pointer bg-[#3f2e24] hover:bg-[#5c4637] transition-colors px-4 py-[9px] rounded-3xl w-fit text-xs font-extrabold">
+                    <i class="fa-solid fa-headset mr-2.5"></i> 
+                    <span>Escuchar narración completa (1:05)</span>
+                </div>
+            </div>
+        </div>
+        
+        <!-- TAB 1: ILUMINACIÓN -->
+        <div id="content-1" class="tab-content hidden">
+            <div class="mb-4">
+                <div class="flex items-center justify-between">
+                    <h2 class="section-title">Análisis de Iluminación</h2>
+                    <div class="px-3 py-1 rounded-full text-xs bg-[#3f2e24] text-[#d4af77] flex items-center">
+                        <span class="font-bold">Black Box</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="bg-[#2c211b] border border-[#5c4637] rounded-3xl p-5">
+                <!-- Key Light -->
+                <div class="mb-5">
+                    <div class="flex items-center gap-2 mb-2">
+                        <div class="w-6 h-6 flex items-center justify-center bg-yellow-400 rounded-full">
+                            <i class="fa-solid fa-sun text-[#1f1611] text-sm"></i>
+                        </div>
+                        <div>
+                            <span class="font-extrabold">KEY LIGHT ÚNICO</span>
+                        </div>
+                    </div>
+                    <div class="pl-8">
+                        <div class="text-sm">Un solo foco duro <span class="font-semibold">lateral cenital desde la izquierda</span>, fuera de cuadro.</div>
+                        <div class="mt-1 flex items-center text-xs">
+                            <div class="px-2 py-[1px] bg-[#3f2e24] text-[#d4af77] rounded-2xl px-3 text-xs font-bold flex items-center w-fit">
+                                <span>Fresnel 45º</span>
+                            </div>
+                            <span class="ml-2 text-xs text-[#9c8f7b]">Viseras cerradas</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="grid grid-cols-2 gap-3">
+                    <!-- Zero fill -->
+                    <div class="detail-item px-3 py-3 rounded-2xl border border-[#5c4637]">
+                        <div class="flex items-center">
+                            <i class="fa-solid fa-moon text-[#9c8f7b] mr-2"></i>
+                            <span class="font-extrabold text-sm">CERO RELLENO</span>
+                        </div>
+                        <div class="text-xs mt-1 pl-6">La mitad derecha se hunde en <span class="font-black">negro absoluto</span>. Contraste extremo.</div>
+                    </div>
+                    
+                    <div class="detail-item px-3 py-3 rounded-2xl border border-[#5c4637]">
+                        <div class="flex items-center">
+                            <i class="fa-solid fa-lightbulb text-yellow-400 mr-2"></i>
+                            <span class="font-extrabold text-sm">LUZ RASANTE</span>
+                        </div>
+                        <div class="text-xs mt-1 pl-6">Marca cada arruga, vena y textura. <span class="font-semibold">Envejece a Isaac.</span></div>
+                    </div>
+                </div>
+                
+                <!-- Reflectors -->
+                <div class="mt-5">
+                    <div class="text-xs font-extrabold mb-2 pl-1 text-[#d4af77]">REFLECTORES NATURALES</div>
+                    <div class="grid grid-cols-3 gap-2">
+                        <div class="px-2.5 py-2 bg-[#3f2e24] rounded-2xl text-xs">
+                            <div class="font-bold">Manta roja</div>
+                            <div class="text-[10px] leading-tight">Rebota luz cálida</div>
+                        </div>
+                        <div class="px-2.5 py-2 bg-[#3f2e24] rounded-2xl text-xs">
+                            <div class="font-bold">Sábana blanca</div>
+                            <div class="text-[10px] leading-tight">Bounce en Isaac</div>
+                        </div>
+                        <div class="px-2.5 py-2 bg-[#3f2e24] rounded-2xl text-xs">
+                            <div class="font-bold">Mantel blanco</div>
+                            <div class="text-[10px] leading-tight">Equilibra el cuadro</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Irony -->
+                <div class="mt-4 px-3 pt-3 pb-2 bg-[#3f2e24] rounded-3xl">
+                    <div class="flex items-start gap-3">
+                        <div>
+                            <i class="fa-solid fa-exclamation-triangle text-[#d4af77] mt-0.5"></i>
+                        </div>
+                        <div class="flex-1 text-xs">
+                            <span class="font-black">IRONÍA DRAMÁTICA:</span><br>
+                            <span class="text-[#d4af77]">El personaje MÁS iluminado es el único que NO puede ver la luz.</span> Isaac es ciego.
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div onclick="highlightLighting()" class="mt-4 flex justify-center">
+                <div class="px-4 flex items-center gap-x-[6px] py-2 text-xs font-extrabold cursor-pointer bg-[#3f2e24] text-[#d4af77] hover:bg-[#5c4637] rounded-[2.25rem]">
+                    <i class="fa-solid fa-eye fa-fw"></i> 
+                    <span>Ver cómo funciona la luz en el cuadro</span>
+                </div>
+            </div>
+        </div>
+        
+        <!-- TAB 2: COLORES / ROJO AZUL -->
+        <div id="content-2" class="tab-content hidden">
+            <div class="mb-3">
+                <h2 class="section-title">La técnica Rojo / Azul</h2>
+                <p class="text-xs mt-1 text-[#9c8f7b]">En el Barroco, los colores no son decoración. Son <span class="font-bold">diseño de luces con pigmento</span>.</p>
+            </div>
+            
+            <div class="grid grid-cols-1 gap-3">
+                <!-- Azul -->
+                <div class="bg-[#2c211b] border border-[#5c4637] rounded-3xl p-4">
+                    <div class="flex gap-3 items-center">
+                        <div class="w-10 h-10 flex-shrink-0 rounded-2xl bg-[#2a4a6f] flex items-center justify-center">
+                            <i class="fa-solid fa-droplet text-white"></i>
+                        </div>
+                        <div class="flex-1">
+                            <div class="flex items-center justify-between">
+                                <div>
+                                    <span class="font-extrabold">AZUL ULTRAMAR</span>
+                                </div>
+                                <div class="px-2 text-xs font-black bg-[#1f1611] text-[#9c8f7b] rounded-xl h-[18px] flex items-center">Lapislázuli</div>
+                            </div>
+                            <div class="text-xs mt-0.5">Más caro que el oro. Significa lo divino, lo espiritual, <span class="font-semibold">lo que retrocede</span>.</div>
+                        </div>
+                    </div>
+                    
+                    <div class="mt-3 px-1 flex items-center">
+                        <div class="flex-1">
+                            <div class="text-sm font-extrabold">JACOB = AZUL FRÍO</div>
+                            <div class="text-xs">El intruso, el que viene de fuera. El color que se hunde.</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Rojo -->
+                <div class="bg-[#2c211b] border border-[#5c4637] rounded-3xl p-4">
+                    <div class="flex gap-3 items-center">
+                        <div class="w-10 h-10 flex-shrink-0 rounded-2xl bg-[#9c2f2f] flex items-center justify-center">
+                            <i class="fa-solid fa-droplet text-white"></i>
+                        </div>
+                        <div class="flex-1">
+                            <div class="flex items-center justify-between">
+                                <div>
+                                    <span class="font-extrabold">ROJO BERMELLÓN / CARMÍN</span>
+                                </div>
+                                <div class="px-2 text-xs font-black bg-[#1f1611] text-[#9c8f7b] rounded-xl h-[18px] flex items-center">Sangre</div>
+                            </div>
+                            <div class="text-xs mt-0.5">Sangre, poder terrenal, linaje. Color que <span class="font-semibold">AVANZA</span>, te salta a la cara.</div>
+                        </div>
+                    </div>
+                    
+                    <div class="mt-3 px-1 flex items-center">
+                        <div class="flex-1">
+                            <div class="text-sm font-extrabold">ISAAC = ROJO CÁLIDO</div>
+                            <div class="text-xs">El poder, la sangre, la herencia legítima. El color que avanza.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="mt-4 px-1">
+                <div class="highlight-box border border-[#5c4637] p-3.5 rounded-3xl text-xs">
+                    <div class="flex items-center">
+                        <div class="px-2.5">
+                            <span class="font-black">TRUCO:</span> 
+                            <span class="text-[#d4af77]">"Si entrecerráis los ojos, el rojo de la cama os viene a la cara y el azul de Jacob se hunde."</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="mt-4 px-1 flex justify-center">
+                <div onclick="showColorDemo()" class="cursor-pointer px-4 py-2 flex items-center text-xs gap-x-2 font-bold bg-[#3f2e24] hover:bg-[#5c4637] transition-colors rounded-[3rem]">
+                    <i class="fa-solid fa-eye"></i> 
+                    <span>Ver demo de colores en el cuadro</span>
+                </div>
+            </div>
+        </div>
+        
+        <!-- TAB 3: GUIONES -->
+        <div id="content-3" class="tab-content hidden">
+            <div class="mb-3">
+                <h2 class="section-title">Guiones listos</h2>
+                <p class="text-xs">3 versiones para explicar a tus amigos</p>
+            </div>
+            
+            <!-- Script cards -->
+            <div class="space-y-3">
+                
+                <!-- Versión 1 min -->
+                <div class="drama-card bg-[#2c211b] border border-[#5c4637] rounded-3xl p-4">
+                    <div class="flex justify-between items-center mb-2">
+                        <div>
+                            <span class="px-3 py-[1px] font-black text-xs bg-[#d4af77] text-[#1f1611] rounded-[2rem]">1 MIN</span>
+                            <span class="ml-2 font-extrabold">Iluminación</span>
+                        </div>
+                        <div onclick="playAudioGuide(2)" class="audio-btn cursor-pointer flex-shrink-0 px-3 py-[5px] bg-[#3f2e24] hover:bg-[#5c4637] text-xs flex items-center rounded-3xl gap-x-1.5 px-2.5">
+                            <i class="fa-solid fa-play text-xs"></i>
+                            <span class="font-extrabold text-xs">Escuchar</span>
+                        </div>
+                    </div>
+                    <div class="script-text text-[13.5px] leading-snug">
+                        "Fijaos que solo hay una fuente de luz dura desde la izquierda, sin relleno. El que más luz recibe es Isaac, que es ciego. Su barba blanca y la sábana hacen de reflector. La madre, Rebeca, que organiza el engaño, está en la sombra. La luz aquí no revela la verdad, ayuda a mentir..."
+                    </div>
+                </div>
+                
+                <!-- Versión 2 min -->
+                <div class="drama-card bg-[#2c211b] border border-[#5c4637] rounded-3xl p-4">
+                    <div class="flex justify-between items-center mb-2">
+                        <div>
+                            <span class="px-3 py-[1px] font-black text-xs bg-[#d4af77] text-[#1f1611] rounded-[2rem]">2 MIN</span>
+                            <span class="ml-2 font-extrabold">Detalles: Los ojos</span>
+                        </div>
+                        <div onclick="playAudioGuide(3)" class="audio-btn cursor-pointer flex-shrink-0 px-3 py-[5px] bg-[#3f2e24] hover:bg-[#5c4637] text-xs flex items-center rounded-3xl gap-x-1.5 px-2.5">
+                            <i class="fa-solid fa-play text-xs"></i>
+                            <span class="font-extrabold text-xs">Escuchar</span>
+                        </div>
+                    </div>
+                    <div class="script-text text-[13.5px] leading-snug">
+                        "Mirad los ojos de Rebeca, al fondo. Son negros totales, sin brillo. En teatro, si quitas el brillo de los ojos le quitas la humanidad al personaje. Es el truco de <span class="font-semibold">El Padrino</span>. Ribera la pinta así para decirnos que es el cerebro frío de la operación..."
+                    </div>
+                </div>
+                
+                <!-- Versión conspirativa -->
+                <div class="drama-card bg-[#2c211b] border border-[#5c4637] rounded-3xl p-4">
+                    <div class="flex justify-between items-center mb-2">
+                        <div>
+                            <span class="px-3 py-[1px] font-black text-xs bg-[#d4af77] text-[#1f1611] rounded-[2rem]">CIERRE</span>
+                            <span class="ml-2 font-extrabold">Conspirativa</span>
+                        </div>
+                        <div onclick="playAudioGuide(4)" class="audio-btn cursor-pointer flex-shrink-0 px-3 py-[5px] bg-[#3f2e24] hover:bg-[#5c4637] text-xs flex items-center rounded-3xl gap-x-1.5 px-2.5">
+                            <i class="fa-solid fa-play text-xs"></i>
+                            <span class="font-extrabold text-xs">Escuchar</span>
+                        </div>
+                    </div>
+                    <div class="script-text text-[13.5px] leading-snug">
+                        "Este cuadro no estaba en una iglesia. Estaba en la sala de juegos del Palacio Real, la 'pieza de trucos'. Un cuadro de un engaño colgado en la sala de trucos. En la época de Felipe IV, con validos corruptos, esto se leía como metáfora..."
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- EXTRA: ADDITIONAL SECTIONS (Bodegón, Rebeca, etc) -->
+        <div class="mt-6">
+            <div class="flex items-center justify-between mb-2 px-1">
+                <h3 class="font-extrabold text-lg">Detalles clave</h3>
+            </div>
+            
+            <div class="space-y-[7px]">
+                <!-- Bodegón -->
+                <div class="drama-card px-4 py-[13px] bg-[#2c211b] border border-[#5c4637] rounded-3xl flex items-start gap-x-3">
+                    <div class="flex-shrink-0 w-[26px]">
+                        <i class="fa-solid fa-utensils text-[#d4af77] mt-0.5"></i>
+                    </div>
+                    <div class="flex-1 text-xs">
+                        <div class="font-extrabold">El bodegón de la derecha</div>
+                        <div class="mt-1 leading-tight">No es decoración. Es el <span class="font-semibold">"atrezzo del crimen"</span>. La comida es <span class="font-bold">falsa</span> (cabrito doméstico). El cuchillo apunta al espectador: simboliza la traición. El mantel blanco es reflector.</div>
+                    </div>
+                </div>
+                
+                <!-- Rebeca -->
+                <div class="drama-card px-4 py-[13px] bg-[#2c211b] border border-[#5c4637] rounded-3xl flex items-start gap-x-3">
+                    <div class="flex-shrink-0 w-[26px]">
+                        <i class="fa-solid fa-eye-slash text-[#d4af77] mt-0.5"></i>
+                    </div>
+                    <div class="flex-1 text-xs">
+                        <div class="font-extrabold">Los ojos negros de Rebeca</div>
+                        <div class="mt-1 leading-tight">Dos pozos negros sin punto de brillo (sin catchlight). Como en <span class="font-semibold">El Padrino</span>. Es la directora de escena: fría, controladora, pertenece a la oscuridad de bambalinas.</div>
+                    </div>
+                </div>
+                
+                <div class="px-1 flex justify-between items-center text-xs pt-1">
+                    <div onclick="showRebecaEyesModal()" class="px-3.5 cursor-pointer py-[5px] text-xs flex items-center bg-[#3f2e24] rounded-3xl font-bold hover:bg-[#5c4637]">
+                        <span>Ver detalle de los ojos</span>
+                    </div>
+                    
+                    <div onclick="showInfografia()" class="cursor-pointer px-4 py-[5px] text-xs flex items-center font-bold">
+                        <i class="fa-solid fa-info-circle mr-1.5"></i> 
+                        <span>Ver infografía</span>
+                    </div>
+                </div>
+
+                <!-- NEW AUDIOS: audioguia + La estafa -->
+                <div class="mt-3 px-1">
+                    <div class="text-xs font-extrabold text-[#d4af77] mb-1.5">Audios adicionales (adjuntos)</div>
+                    <div class="flex gap-2">
+                        <div onclick="playCustomAudio(5)" class="flex-1 cursor-pointer flex items-center justify-center gap-x-1.5 px-3 py-[7px] text-xs font-extrabold bg-[#3f2e24] hover:bg-[#5c4637] rounded-3xl">
+                            <i class="fa-solid fa-play"></i>
+                            <span>Audioguía completa</span>
+                        </div>
+                        <div onclick="playCustomAudio(6)" class="flex-1 cursor-pointer flex items-center justify-center gap-x-1.5 px-3 py-[7px] text-xs font-extrabold bg-[#3f2e24] hover:bg-[#5c4637] rounded-3xl">
+                            <i class="fa-solid fa-play"></i>
+                            <span>La estafa</span>
+                        </div>
+                    </div>
+                    <div class="text-[10px] text-[#9c8f7b] mt-1 px-1">Sube audioguia.mp3 y Laestafa.mp3 a /audio/</div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- LOCATION / PLANO -->
+        <div class="mt-8">
+            <div class="px-1 flex items-center justify-between mb-2">
+                <div>
+                    <span class="font-extrabold text-base">Ubicación en el Prado</span>
+                </div>
+                <div class="text-xs px-3 py-1 bg-[#3f2e24] rounded-[2rem] flex items-center gap-x-1 text-[#d4af77]">
+                    <i class="fa-solid fa-map"></i>
+                    <span class="font-bold text-xs">Planta 1</span>
+                </div>
+            </div>
+            
+            <div onclick="showPlanoModal()" class="cursor-pointer overflow-hidden rounded-3xl border border-[#5c4637] shadow-inner relative mx-auto" style="max-width: 260px;">
+                <!-- Plano oficial del Museo del Prado (Planta 1 - Sala 009) -->
+                <img src="images/plano-prado.png" alt="Plano oficial Museo del Prado - Planta 1 - Sala 009 con ubicación del cuadro" class="w-full aspect-[1.42/1] object-cover">
+                
+                <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent h-14"></div>
+                
+                <div class="absolute bottom-2 left-3 text-xs">
+                    <div class="font-extrabold">Sala 009</div>
+                    <div class="text-[10px]">Pintura Barroca Española • Planta 1</div>
+                </div>
+                
+                <div class="absolute bottom-2 right-3 bg-black/70 text-[#d4af77] rounded-[2rem] px-3 py-0.5 text-xs font-extrabold flex items-center">
+                    <i class="fa-solid fa-map-marker-alt mr-1.5"></i> 
+                    <span>Ver en mapa</span>
+                </div>
+            </div>
+            
+            <div class="px-1 flex items-center mt-2 text-xs">
+                <div class="flex-1 text-[#9c8f7b]">
+                    <span class="font-semibold">Museo del Prado • Madrid</span>
+                </div>
+                <div onclick="openPradoLink()" class="font-extrabold flex items-center px-2 text-xs cursor-pointer text-[#d4af77]">
+                    <span>Ver web oficial</span> <i class="fa-solid fa-external-link-alt ml-1.5 text-xs"></i>
+                </div>
+            </div>
+
+            <!-- Cuestionario Button -->
+            <div onclick="window.open('https://notebooklm.google.com/notebook/69b816fc-b475-4b83-bf10-a9906e4491c7/artifact/daddcef9-9881-4c47-a99c-686b9c986bf0?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1', '_blank')" 
+                 class="mt-4 cursor-pointer flex items-center justify-center gap-x-2 bg-[#d4af77] hover:bg-[#c9a36b] transition-colors text-[#1f1611] font-extrabold py-[11px] px-5 rounded-3xl text-sm shadow-inner">
+                <i class="fa-solid fa-question-circle fa-lg"></i>
+                <span>Cuestionario de repaso (NotebookLM)</span>
+            </div>
+        </div>
+        
+        <!-- INFOGRAFÍA -->
+        <div class="mt-5 px-1">
+            <div onclick="showInfografia()" class="cursor-pointer flex items-center justify-between bg-[#2c211b] hover:bg-[#3f2e24] border border-[#5c4637] rounded-3xl px-4 py-3">
+                <div class="flex items-center gap-x-3">
+                    <i class="fa-solid fa-chart-line fa-lg text-[#d4af77]"></i>
+                    <div>
+                        <span class="font-extrabold">Infografía completa</span>
+                        <div class="text-xs">Iluminación + colores + detalles técnicos</div>
+                    </div>
+                </div>
+                <i class="fa-solid fa-chevron-right"></i>
+            </div>
+        </div>
+        
+    </div>
+    
+    <!-- AUDIO PLAYER BAR -->
+    <div id="audio-bar" onclick="toggleAudio()" class="hidden fixed bottom-[58px] left-1/2 -translate-x-1/2 w-[92%] max-w-[380px] bg-[#3f2e24] border border-[#5c4637] shadow-xl rounded-[3rem] px-1 py-[3px] z-[90]">
+        <div class="flex items-center px-1 gap-x-2">
+            <div class="w-8 h-8 flex-shrink-0 ml-1 bg-[#1f1611] rounded-full flex items-center justify-center">
+                <i id="audio-icon" class="fa-solid fa-pause text-[#d4af77]"></i>
+            </div>
+            <div class="flex-1 min-w-0">
+                <div id="audio-title" class="font-extrabold text-sm truncate">Narración</div>
+                <div class="flex items-center text-xs">
+                    <div class="flex-1 h-1 bg-[#5c4637] rounded">
+                        <div id="audio-progress" class="h-1 bg-[#d4af77] transition-all rounded" style="width: 0%"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="text-xs font-mono px-2 text-[#9c8f7b]">
+                <span id="audio-time">0:00</span>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Bottom nav (mobile) -->
+    <div class="fixed bottom-0 left-0 right-0 bg-[#1f1611] border-t border-[#5c4637] px-1 py-[4px] z-[80]">
+        <div class="max-w-screen-xl mx-auto px-4">
+            <div class="flex items-center justify-between text-xs">
+                <div onclick="switchTab(0)" class="flex flex-col items-center cursor-pointer py-1 px-4">
+                    <i class="fa-solid fa-book text-sm"></i>
+                    <span class="text-[9px] mt-px font-bold">Historia</span>
+                </div>
+                <div onclick="switchTab(1)" class="flex flex-col items-center cursor-pointer py-1 px-4">
+                    <i class="fa-solid fa-lightbulb text-sm"></i>
+                    <span class="text-[9px] mt-px font-bold">Luz</span>
+                </div>
+                <div onclick="switchTab(2)" class="flex flex-col items-center cursor-pointer py-1 px-4">
+                    <i class="fa-solid fa-palette text-sm"></i>
+                    <span class="text-[9px] mt-px font-bold">Color</span>
+                </div>
+                <div onclick="switchTab(3)" class="flex flex-col items-center cursor-pointer py-1 px-4">
+                    <i class="fa-solid fa-microphone-alt text-sm"></i>
+                    <span class="text-[9px] mt-px font-bold">Guiones</span>
+                </div>
+                <div onclick="showInfografia()" class="flex flex-col items-center cursor-pointer py-1 px-4">
+                    <i class="fa-solid fa-info-circle text-sm"></i>
+                    <span class="text-[9px] mt-px font-bold">Info</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Modals -->
+    
+    <!-- Plano Modal -->
+    <div id="plano-modal" onclick="if (event.target.id === 'plano-modal') hidePlanoModal()" class="hidden fixed inset-0 bg-black/80 z-[200] flex items-end md:items-center justify-center">
+        <div onclick="event.stopImmediatePropagation()" class="bg-[#2c211b] w-full max-w-screen-sm md:max-w-lg md:rounded-3xl md:m-4 rounded-t-3xl p-1 border border-[#5c4637]">
+            <div class="p-4">
+                <div class="flex justify-between items-center mb-3 px-1">
+                    <div>
+                        <span class="font-extrabold text-xl">Plano del museo</span>
+                    </div>
+                    <div onclick="hidePlanoModal()" class="w-9 h-9 flex items-center justify-center text-[#9c8f7b] cursor-pointer">
+                        <i class="fa-solid fa-times text-2xl"></i>
+                    </div>
+                </div>
+                
+                <div class="rounded-2xl overflow-hidden border border-[#5c4637]">
+                    <img src="images/plano-prado.png" alt="Plano oficial del Museo del Prado - Planta 1 - Sala 009 (Expuesto)" class="w-full">
+                </div>
+                
+                <div class="flex items-center justify-between mt-3 px-1">
+                    <div class="text-xs">
+                        <span class="font-bold">Sala 009</span><br>
+                        <span class="text-xs text-[#9c8f7b]">Pintura Barroca Española • Planta 1</span>
+                    </div>
+                    
+                    <div onclick="openPradoLink()" class="px-4 flex items-center py-[7px] bg-[#3f2e24] text-xs font-bold rounded-3xl cursor-pointer">
+                        <span class="px-1">Abrir en web oficial</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Infografía Modal -->
+    <div id="infografia-modal" onclick="if (event.target.id === 'infografia-modal') hideInfografiaModal()" class="hidden fixed inset-0 bg-black/90 z-[200] flex items-end md:items-center justify-center">
+        <div onclick="event.stopImmediatePropagation()" class="bg-[#2c211b] w-full max-w-[980px] md:rounded-3xl md:m-4 rounded-t-3xl border border-[#5c4637] flex flex-col max-h-[95vh]">
+            
+            <!-- HEADER (always visible - fixed on top, high priority) -->
+            <div class="flex justify-between items-center px-4 py-3.5 border-b border-[#5c4637] flex-shrink-0 bg-[#2c211b] z-[70] sticky top-0 shadow-md">
+                <span class="font-extrabold text-lg">Ribera: El Mapa del Engaño</span>
+                <div onclick="hideInfografiaModal()" 
+                     class="cursor-pointer flex items-center gap-x-1.5 px-3 py-1.5 rounded-2xl hover:bg-[#3f2e24] transition-colors text-[#d4af77]">
+                    <span class="text-xs font-bold tracking-wider">CERRAR</span>
+                    <i class="fa-solid fa-times text-2xl"></i>
+                </div>
+            </div>
+            
+            <!-- IMAGE AREA (scrollable + zoomable) -->
+            <div class="flex-1 overflow-auto p-2 bg-[#1f1611]" style="max-height: 56vh;">
+                <div class="flex justify-center">
+                    <img id="infografia-img" 
+                         src="images/RiberaEngaño.png" 
+                         alt="Ribera: El Mapa del Engaño en Isaac y Jacob - Infografía completa adjunta" 
+                         class="max-w-full cursor-zoom-in transition-transform duration-300"
+                         style="max-height: 50vh; width: auto; transform-origin: center center;"
+                         onclick="toggleInfografiaZoom(this)">
+                </div>
+            </div>
+            
+            <div class="px-4 py-1 text-center text-[10px] text-[#9c8f7b] flex-shrink-0">
+                Pulsa la imagen para ampliar/reducir (máx. 2.2×) • Mantén el botón X visible
+            </div>
+            
+            <!-- SUMMARY -->
+            <div class="px-4 py-3 flex-shrink-0 border-t border-[#5c4637]">
+                <div class="text-xs px-3 py-2.5 bg-[#3f2e24] rounded-2xl">
+                    <div class="font-extrabold mb-1">Resumen técnico</div>
+                    <ul class="text-xs space-y-[2px]">
+                        <li class="flex items-center"><span class="w-1.5 h-1.5 rounded-full bg-[#d4af77] mr-2 inline-block"></span> Key light lateral único</li>
+                        <li class="flex items-center"><span class="w-1.5 h-1.5 rounded-full bg-[#d4af77] mr-2 inline-block"></span> Cero relleno (negro absoluto)</li>
+                        <li class="flex items-center"><span class="w-1.5 h-1.5 rounded-full bg-[#d4af77] mr-2 inline-block"></span> Rojo avanza, azul retrocede</li>
+                    </ul>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+    
+    <!-- Share Modal -->
+    <div id="share-modal" onclick="if (event.target.id === 'share-modal') hideShareModal()" class="hidden fixed inset-0 bg-black/70 z-[200] flex items-end justify-center">
+        <div onclick="event.stopImmediatePropagation()" class="bg-[#2c211b] w-full max-w-screen-sm md:max-w-sm md:rounded-t-3xl rounded-t-3xl p-5 border border-[#5c4637]">
+            <div class="flex justify-between px-1 mb-4">
+                <div class="font-extrabold">Compartir con tus amigos</div>
+                <div onclick="hideShareModal()" class="cursor-pointer text-xl leading-none text-[#9c8f7b]">&times;</div>
+            </div>
+            
+            <div class="grid grid-cols-4 gap-2">
+                <div onclick="shareVia('whatsapp')" class="flex flex-col items-center cursor-pointer px-1 py-2">
+                    <div class="w-11 h-11 flex items-center justify-center bg-[#25D366] rounded-2xl text-white"><i class="fa-brands fa-whatsapp text-xl"></i></div>
+                    <div class="text-xs mt-1 font-bold">WhatsApp</div>
+                </div>
+                <div onclick="shareVia('telegram')" class="flex flex-col items-center cursor-pointer px-1 py-2">
+                    <div class="w-11 h-11 flex items-center justify-center bg-[#229ED9] rounded-2xl text-white"><i class="fa-brands fa-telegram text-xl"></i></div>
+                    <div class="text-xs mt-1 font-bold">Telegram</div>
+                </div>
+                <div onclick="shareVia('copy')" class="flex flex-col items-center cursor-pointer px-1 py-2">
+                    <div class="w-11 h-11 flex items-center justify-center bg-[#5c4637] rounded-2xl"><i class="fa-solid fa-link text-xl"></i></div>
+                    <div class="text-xs mt-1 font-bold">Copiar link</div>
+                </div>
+                <div onclick="shareVia('native')" class="flex flex-col items-center cursor-pointer px-1 py-2">
+                    <div class="w-11 h-11 flex items-center justify-center bg-[#5c4637] rounded-2xl"><i class="fa-solid fa-share text-xl"></i></div>
+                    <div class="text-xs mt-1 font-bold">Más...</div>
+                </div>
+            </div>
+            
+            <div class="mt-4 px-1">
+                <div class="text-xs text-[#9c8f7b]">También puedes enviar esta página completa a tu grupo.</div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="app.js"></script>
+</body>
+</html>

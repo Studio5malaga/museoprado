@@ -1,0 +1,6 @@
+# Temporary / cache
+image-search/
+*.log
+.DS_Store
+
+# Keep images/ but ignore source search folder

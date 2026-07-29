@@ -55,6 +55,10 @@ Esta matriz se debe completar antes de redactar cada pista definitiva. Si una pi
 | 26 | Coníferas y Ruta Forestal | El jardín cultivado se encuentra con el monte mediterráneo | Amplitud | Viento, pinos, pendientes y paisaje | Introducir naturaleza y geología | Cambia la escala de la visita | Tránsito/estación | Ruta completa puede ser spin-off |
 | 27 | Observatorio y cierre | El jardín permanece vivo más allá de la visita | Gratitud | Aves, silencio, luz de salida | Cerrar historia, botánica y conservación; mencionar la donación del mirador de aves y la continuidad asociativa | Final emocional independiente | Dos pistas + cierre | No mezclar observatorio y despedida |
 
+## Nota editorial sobre el laberinto vegetal
+
+El laberinto vegetal junto al lago es una actuación reciente promovida por la Asociación de Amigos. La nota municipal lo describe con aproximadamente 1.000 m², unos 450 m de pared y trepadoras como buganvillas, bignonias, jazmines y celestina. La escultura del Minotauro debe comprobarse in situ antes de incorporarla como hecho narrado.
+
 ## Reglas editoriales definitivas
 
 1. Cada estación debe tener una idea principal, no una lista de datos.

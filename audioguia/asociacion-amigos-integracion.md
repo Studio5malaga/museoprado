@@ -19,7 +19,7 @@ Según la información de la propia asociación:
 - La asociación cuenta con un vivero junto al ramal del Acueducto de San Telmo. Es de uso privado para conservación vegetal y no es visitable; no debe proponerse como parada ni como acceso para el visitante.
 - Sus actividades abarcan cultura, arte, botánica, ornitología, educación, conservación y memoria histórica.
 - El mirador de aves de la Ruta Forestal fue aportado como donación de la Asociación de Amigos.
-- Su actuación más reciente visitable es un laberinto vegetal situado junto al lago inferior, con una escultura de un minotauro en el centro.
+- Su actuación reciente junto al lago es un laberinto vegetal promovido por la asociación. El Ayuntamiento describe una superficie aproximada de 1.000 m² y unos 450 m de pared, plantada con buganvillas moradas, bignonias de invierno, bignonias rojas, distintas variedades de jazmín y celestina, entre otras trepadoras. El proyecto confirma una escultura de un Minotauro en el centro, pero este detalle debe comprobarse in situ porque no aparece en la nota municipal.
 - La asociación organiza o participa en concursos, exposiciones, actividades de divulgación y acciones vinculadas al jardín.
 
 ## Dónde debe aparecer en el tour
@@ -66,7 +66,7 @@ El mirador de aves de la Ruta Forestal fue aportado como donación de la Asociac
 
 ### 5. Laberinto vegetal junto al lago inferior
 
-El laberinto vegetal es una actuación visitable de la Asociación de Amigos y debe incorporarse como punto contemporáneo del jardín, junto al lago inferior. En su centro hay una escultura de un minotauro. Puede funcionar como estación breve o actividad opcional, especialmente para familias, sin convertirlo en una explicación mitológica larga.
+El Ayuntamiento documenta el laberinto vegetal como una nueva actuación promovida por la Asociación junto al lago, con aproximadamente 1.000 m² y unos 450 m de pared. Las especies trepadoras citadas incluyen buganvillas, bignonias, jazmines y celestina. El Minotauro queda como detalle confirmado por el proyecto del usuario, pero pendiente de comprobación presencial al no aparecer en la nota municipal.
 
 Antes de fijar el audio hay que comprobar el acceso, el recorrido real y si aparece en la señalética del jardín.
 

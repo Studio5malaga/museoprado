@@ -53,7 +53,7 @@
 **Contenido:**
 
 - Lago.
-- Laberinto vegetal visitable junto al lago inferior, con escultura central de un minotauro.
+- Laberinto vegetal junto al lago inferior, promovido por la Asociación de Amigos; aproximadamente 1.000 m² y 450 m de pared según el Ayuntamiento. La escultura central del Minotauro queda pendiente de comprobación presencial.
 - Cítricos y huerta.
 - Noria.
 - Antigua Era.

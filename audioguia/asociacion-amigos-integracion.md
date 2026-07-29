@@ -19,7 +19,7 @@ Según la información de la propia asociación:
 - La asociación cuenta con un vivero junto al ramal del Acueducto de San Telmo. Es de uso privado para conservación vegetal y no es visitable; no debe proponerse como parada ni como acceso para el visitante.
 - Sus actividades abarcan cultura, arte, botánica, ornitología, educación, conservación y memoria histórica.
 - El mirador de aves de la Ruta Forestal fue aportado como donación de la Asociación de Amigos.
-- Su actuación reciente frente al Jardín de los Sentidos y junto al lago es un laberinto vegetal promovido por la asociación. Tiene forma cuadrada, casi 1.000 m² de superficie y unos 450 m de pared; para llegar al núcleo se recorren cinco corredores de escasa dificultad. Incluye buganvillas moradas, bignonias de invierno, bignonias rojas, variedades de jazmín y celestina, entre otras trepadoras. La figura del Minotauro aparece en la información del proyecto, pero debe comprobarse si ya está instalada en la fecha de la visita.
+- Su actuación reciente frente al Jardín de los Sentidos y junto al lago es un laberinto vegetal promovido por la asociación. Tiene forma cuadrada, casi 1.000 m² de superficie y unos 450 m de pared; para llegar al núcleo se recorren cinco corredores de escasa dificultad. Incluye buganvillas moradas, bignonias de invierno, bignonias rojas, variedades de jazmín y celestina, entre otras trepadoras. La figura del Minotauro se inaugurará en otoño de 2026, después de dejar crecer las plantas durante dos años. Puede integrarse plenamente en la versión de la audioguía posterior a la inauguración; para publicaciones anteriores debe existir una versión alternativa.
 - La asociación organiza o participa en concursos, exposiciones, actividades de divulgación y acciones vinculadas al jardín.
 
 ## Dónde debe aparecer en el tour
@@ -66,9 +66,15 @@ El mirador de aves de la Ruta Forestal fue aportado como donación de la Asociac
 
 ### 5. Laberinto vegetal junto al lago inferior
 
-El Ayuntamiento documenta el laberinto vegetal como una nueva actuación promovida por la Asociación frente al Jardín de los Sentidos y junto al lago. Tiene forma cuadrada, casi 1.000 m² y unos 450 m de pared; se llega al núcleo recorriendo cinco corredores de escasa dificultad. Las especies citadas incluyen buganvillas, bignonias, jazmines y celestina. El Minotauro debe comprobarse en la visita antes de narrarlo como elemento instalado.
+El Ayuntamiento documenta el laberinto vegetal como una nueva actuación promovida por la Asociación frente al Jardín de los Sentidos y junto al lago. Tiene forma cuadrada, casi 1.000 m² y unos 450 m de pared; se llega al núcleo recorriendo cinco corredores de escasa dificultad. Las especies citadas incluyen buganvillas, bignonias, jazmines y celestina. El Minotauro se incorporará como elemento instalado en la versión posterior a su inauguración de otoño de 2026. La pista debe incluir una alternativa si el tour se publica antes de esa fecha.
 
 Antes de fijar el audio hay que comprobar el acceso, el recorrido real y si aparece en la señalética del jardín.
+
+## Tratamiento sonoro y sensorial del laberinto
+
+El laberinto debe tener una pista breve y sensorial, no una explicación mitológica extensa. La narración puede invitar al visitante a escuchar sus pasos, el roce de las plantas y los cambios de dirección de los corredores. El Minotauro del centro permite introducir brevemente el mito griego: el laberinto de Creta fue construido por Dédalo para ocultar al Minotauro, y Teseo logró salir gracias al hilo que le entregó Ariadna.
+
+La producción sonora puede utilizar: pasos sobre el sendero, hojas rozando las paredes vegetales, una breve pausa de silencio al alcanzar el centro y una atmósfera sutil de misterio. Evitar efectos de terror o rugidos exagerados; debe conservarse el tono elegante, familiar y patrimonial del jardín.
 
 ## Función narrativa
 

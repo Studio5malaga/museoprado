@@ -53,7 +53,7 @@
 **Contenido:**
 
 - Lago.
-- Laberinto vegetal frente al Jardín de los Sentidos y junto al lago inferior; forma cuadrada, casi 1.000 m², unos 450 m de pared y cinco corredores de escasa dificultad según la documentación. La escultura central del Minotauro queda pendiente de comprobación presencial.
+- Laberinto vegetal frente al Jardín de los Sentidos y junto al lago inferior; forma cuadrada, casi 1.000 m², unos 450 m de pared y cinco corredores de escasa dificultad según la documentación. La figura central del Minotauro está prevista para inaugurarse en otoño de 2026, después de dos años de crecimiento de las plantas. Integrarla en la versión posterior a la inauguración y mantener alternativa temporal si fuera necesario.
 - Cítricos y huerta.
 - Noria.
 - Antigua Era.

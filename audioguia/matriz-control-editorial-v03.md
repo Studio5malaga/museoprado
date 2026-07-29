@@ -57,7 +57,7 @@ Esta matriz se debe completar antes de redactar cada pista definitiva. Si una pi
 
 ## Nota editorial sobre el laberinto vegetal
 
-El laberinto vegetal frente al Jardín de los Sentidos y junto al lago es una actuación reciente promovida por la Asociación de Amigos. Tiene forma cuadrada, casi 1.000 m², unos 450 m de pared y cinco corredores de escasa dificultad. Incluye buganvillas, bignonias, jazmines y celestina. La escultura del Minotauro debe comprobarse in situ antes de incorporarla como hecho narrado.
+El laberinto vegetal frente al Jardín de los Sentidos y junto al lago es una actuación reciente promovida por la Asociación de Amigos. Tiene forma cuadrada, casi 1.000 m², unos 450 m de pared y cinco corredores de escasa dificultad. Incluye buganvillas, bignonias, jazmines y celestina. La figura del Minotauro se inaugurará en otoño de 2026, tras dos años de crecimiento de las plantas. En la versión posterior a la inauguración puede ser una estación sensorial propia; mantener una versión alternativa para publicaciones anteriores.
 
 ## Reglas editoriales definitivas
 

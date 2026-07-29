@@ -69,9 +69,9 @@ Cuando una especie aparece en la guía, eso confirma que está documentada en el
 | 40 | Invernadero de insectívoras | E1; H1 | Plantas insectívoras y mirmecófitas | Estación | **B/C.** No fijar géneros concretos de mirmecófitas sin confirmación de catálogo. |
 | 41 | Paseo de datileras | L1/P17 | Palmeras datileras, palmitos y camino agrícola | Tránsito / estación breve | **B.** Diferenciarlo de la Avenida de Palmeras y de la colección V7. |
 | 42 | Jardín de los Sentidos. Colección de frutales | L2 | Arriates, frutales, flor de temporada y experiencias sensoriales | Estación | **B.** Confirmar qué elementos sensoriales están actualmente activos. |
-| 43 | Lago | L4/P16 | Balsa artificial y sistema de circulación de agua | Estación + silencio | **B.** La guía explica su relación con el sistema de agua; conviene verificar el funcionamiento actual. |
+| 43 | Lago | L4/P16 | Balsa artificial y sistema de circulación de agua; junto al lago inferior, laberinto vegetal y escultura del Minotauro | Estación + silencio | **B + confirmación del proyecto.** La guía explica su relación con el sistema de agua. El laberinto vegetal es una actuación reciente y visitable; verificar acceso y trazado actual. |
 | 44 | Ruta Forestal | P9 | Recorrido alto, vegetación mediterránea, presa y desnivel | Tránsito / bloque panorámico | **A/B.** El mapa indica dificultad media y aproximadamente 1.100 m. Debe comprobarse la accesibilidad actual. |
-| 45 | Observatorio de aves | P11 | Observación de fauna, comederos y bebederos | Silencio + audio breve | **B.** Confirmar ubicación, estado y posibilidad real de observar aves. |
+| 45 | Observatorio de aves | P11 | Observación de fauna, comederos y bebederos; donación de la Asociación de Amigos | Silencio + audio breve | **B + confirmación del proyecto.** El mirador fue donado por la Asociación de Amigos. No decir que la asociación lo gestiona si no se confirma. |
 
 ## Prioridades para el tour máster
 
@@ -112,6 +112,15 @@ Cuando una especie aparece en la guía, eso confirma que está documentada en el
 - Estanques de piedra.
 - Bambusal.
 - Observatorio de aves.
+
+## Punto complementario no numerado — Laberinto vegetal
+
+- **Ubicación provisional:** junto al lago inferior, dentro de la zona de la Ruta L/P.
+- **Contenido:** laberinto vegetal visitable con una escultura de un minotauro en el centro.
+- **Fuente:** confirmación del proyecto; pendiente de localizar en el mapa general y comprobar sobre el terreno.
+- **Tratamiento:** estación breve o actividad opcional de 1–2 minutos.
+- **Valor narrativo:** enlaza el jardín contemporáneo con la mitología, el juego, la participación y el uso familiar del espacio.
+- **Cautela:** no asignarle todavía un número del mapa oficial ni un trigger GPS definitivo.
 
 ## Asociación de Amigos del Jardín Botánico-Histórico La Concepción
 

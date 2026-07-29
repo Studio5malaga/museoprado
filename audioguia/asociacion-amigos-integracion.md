@@ -16,8 +16,10 @@ Según la información de la propia asociación:
 - Cuenta con una biblioteca especializada vinculada al jardín.
 - La biblioteca se denomina “José Antonio del Cañizo” y está vinculada a la antigua escuela del jardín.
 - El proyecto aporta que la biblioteca se inaugurará en otoño de 2026; verificar el estado real antes de grabar/publicar.
-- El proyecto aporta que la asociación cuenta con un vivero junto al ramal del Acueducto de San Telmo; verificar ubicación, acceso y función en visita de campo.
+- La asociación cuenta con un vivero junto al ramal del Acueducto de San Telmo. Es de uso privado para conservación vegetal y no es visitable; no debe proponerse como parada ni como acceso para el visitante.
 - Sus actividades abarcan cultura, arte, botánica, ornitología, educación, conservación y memoria histórica.
+- El mirador de aves de la Ruta Forestal fue aportado como donación de la Asociación de Amigos.
+- Su actuación más reciente visitable es un laberinto vegetal situado junto al lago inferior, con una escultura de un minotauro en el centro.
 - La asociación organiza o participa en concursos, exposiciones, actividades de divulgación y acciones vinculadas al jardín.
 
 ## Dónde debe aparecer en el tour
@@ -56,21 +58,17 @@ Redacción provisional:
 
 ### 3. Ramal del Acueducto de San Telmo y vivero
 
-El vivero debe aparecer como un ejemplo de trabajo vivo de conservación, aclimatación y cuidado, no solo como infraestructura.
-
-Antes de incluirlo hay que confirmar:
-
-- Ubicación exacta.
-- Si es visible desde el recorrido público.
-- Si el visitante puede observarlo.
-- Qué especies se cultivan.
-- Si la asociación lo gestiona directamente o colabora en su mantenimiento.
+El vivero puede mencionarse únicamente como contexto de conservación vegetal. Es un espacio privado de uso interno y no es visitable. No tendrá trigger ni instrucción de acceso en VoiceMap.
 
 ### 4. Observatorio de aves
 
-La asociación permite conectar el observatorio con la ornitología y la participación ciudadana.
+El mirador de aves de la Ruta Forestal fue aportado como donación de la Asociación de Amigos. Puede explicarse como una contribución física de la asociación a la observación y divulgación de la fauna del jardín. No decir que la asociación gestiona el observatorio salvo confirmación.
 
-No decir que la asociación gestiona el observatorio salvo confirmación. Sí puede explicarse que el jardín es también un espacio de observación de fauna y que la asociación promueve actividades de divulgación ornitológica, si se documenta en la programación vigente.
+### 5. Laberinto vegetal junto al lago inferior
+
+El laberinto vegetal es una actuación visitable de la Asociación de Amigos y debe incorporarse como punto contemporáneo del jardín, junto al lago inferior. En su centro hay una escultura de un minotauro. Puede funcionar como estación breve o actividad opcional, especialmente para familias, sin convertirlo en una explicación mitológica larga.
+
+Antes de fijar el audio hay que comprobar el acceso, el recorrido real y si aparece en la señalética del jardín.
 
 ## Función narrativa
 

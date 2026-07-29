@@ -47,9 +47,9 @@ Cuando una especie aparece en la guía, eso confirma que está documentada en el
 | 18 | Ruta de los Miradores | M | Senderos panorámicos, miradores secundarios y vegetación de ladera | Tránsito / bloque panorámico | **B.** No es un único punto de observación. Requiere varios triggers o un audio de tránsito. |
 | 19 | Casa del Administrador. Sala de exposiciones | V1; H6 | Dependencias de servicio, exposiciones, despachos y laboratorios según la documentación | Estación breve | **B/C.** Confirmar usos actuales y accesibilidad interior. |
 | 20 | La Vuelta al Mundo en 80 Árboles | V | Árboles de los continentes, colección didáctica y mapa mural | Estación de contexto / tránsito | **A/B.** La ruta tiene varios puntos propios; no reducirla a un solo sendero o audio. |
-| 21 | Casita de los Cipreses. Sede de la Asociación de Amigos | V2; H6 | Alineación de cipreses, almez y asociación | Estación breve / tránsito | **B.** Confirmar acceso y uso actual. No confundir con la Casita del Jardinero. |
-| 22 | Antigua escuela | V3 | Escuela para hijos de empleados y personas del entorno | Tránsito / estación breve | **B.** Uso histórico documentado en la guía; estado actual pendiente. |
-| 23 | Acueducto de San Telmo | V5; P8 | Restos o ramal del acueducto, relación entre agua, finca y ciudad | Estación breve | **B.** La guía habla de restos/ramal. No presentarlo como un gran acueducto completo visitable sin comprobarlo. |
+| 21 | Casita de los Cipreses. Sede de la Asociación de Amigos | V2; H6 | Alineación de cipreses, almez y asociación | Estación breve / tránsito | **A/B.** Sede de la Asociación de Amigos del Jardín Botánico-Histórico La Concepción. La asociación se creó en 1995, colabora con el Patronato y desarrolla actividades de divulgación, cultura, arte, botánica, ornitología y conservación. La cifra de socios es dinámica: la web asociativa habla de más de 1.300; no fijar una cifra en el audio sin actualizarla. No confundir con la Casita del Jardinero. |
+| 22 | Antigua escuela | V3 | Escuela para hijos de empleados y personas del entorno | Tránsito / estación breve | **B.** Uso histórico documentado en la guía. La antigua escuela acoge o está vinculada a la Biblioteca del Jardín Botánico-Histórico “José Antonio del Cañizo”; verificar el estado de apertura/inauguración en la fecha de publicación. |
+| 23 | Acueducto de San Telmo | V5; P8 | Restos o ramal del acueducto, relación entre agua, finca y ciudad | Estación breve | **B.** La guía habla de restos/ramal. No presentarlo como un gran acueducto completo visitable sin comprobarlo. La asociación mantiene además un vivero próximo a este ramal, dato aportado por el proyecto y pendiente de documentar en fuente pública. |
 | 24 | Antigua Era | P8; V5 | Pasado agrícola, trilla y paisaje mediterráneo | Tránsito / estación breve | **B.** Función agrícola plausible y documentada por la guía; ubicación y estado actual deben comprobarse. |
 | 25 | Olivo centenario | V6; relacionado con P7 | Olivo y conexión con la colección de vides | Estación breve | **B.** No dar edad exacta ni afirmar “milenario”. |
 | 26 | Colección de vides malagueñas | V6; P5 | *Vitis vinifera*, variedades cultivadas en Málaga y Andalucía | Estación botánico-agrícola | **B.** Confirmar variedades actualmente presentes y señalización. |
@@ -112,6 +112,12 @@ Cuando una especie aparece en la guía, eso confirma que está documentada en el
 - Estanques de piedra.
 - Bambusal.
 - Observatorio de aves.
+
+## Asociación de Amigos del Jardín Botánico-Histórico La Concepción
+
+La asociación debe aparecer como parte viva del jardín contemporáneo, no como una nota secundaria. Su sede está en la Casa de los Cipreses; la antigua escuela está vinculada a la biblioteca especializada “José Antonio del Cañizo”; y existe un vivero asociado junto al ramal del Acueducto de San Telmo, pendiente de comprobar documentalmente y sobre el terreno. Sus actividades abarcan cultura, arte, botánica, ornitología, educación, conservación y memoria histórica.
+
+La asociación fue creada en 1995 y su propia web indica que cuenta con más de 1.300 socios. Como el número puede cambiar, en la audioguía conviene decir “una asociación con una comunidad numerosa y muy activa” o actualizar la cifra justo antes de publicar.
 
 ## Reglas de uso de esta tabla
 

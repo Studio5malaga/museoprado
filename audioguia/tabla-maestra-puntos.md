@@ -115,7 +115,7 @@ Cuando una especie aparece en la guía, eso confirma que está documentada en el
 
 ## Punto complementario no numerado — Laberinto vegetal
 
-- **Ubicación provisional:** junto al lago inferior, dentro de la zona de la Ruta L/P.
+- **Ubicación provisional:** frente al Jardín de los Sentidos y junto al lago inferior, dentro de la zona de la Ruta L/P.
 - **Contenido:** laberinto vegetal visitable con una escultura de un minotauro en el centro.
 - **Fuente:** confirmación del proyecto; pendiente de localizar en el mapa general y comprobar sobre el terreno.
 - **Tratamiento:** estación breve o actividad opcional de 1–2 minutos.

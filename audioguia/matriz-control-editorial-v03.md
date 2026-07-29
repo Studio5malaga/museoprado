@@ -57,7 +57,7 @@ Esta matriz se debe completar antes de redactar cada pista definitiva. Si una pi
 
 ## Nota editorial sobre el laberinto vegetal
 
-El laberinto vegetal junto al lago es una actuación reciente promovida por la Asociación de Amigos. La nota municipal lo describe con aproximadamente 1.000 m², unos 450 m de pared y trepadoras como buganvillas, bignonias, jazmines y celestina. La escultura del Minotauro debe comprobarse in situ antes de incorporarla como hecho narrado.
+El laberinto vegetal frente al Jardín de los Sentidos y junto al lago es una actuación reciente promovida por la Asociación de Amigos. Tiene forma cuadrada, casi 1.000 m², unos 450 m de pared y cinco corredores de escasa dificultad. Incluye buganvillas, bignonias, jazmines y celestina. La escultura del Minotauro debe comprobarse in situ antes de incorporarla como hecho narrado.
 
 ## Reglas editoriales definitivas
 

@@ -53,7 +53,7 @@
 **Contenido:**
 
 - Lago.
-- Laberinto vegetal junto al lago inferior, promovido por la Asociación de Amigos; aproximadamente 1.000 m² y 450 m de pared según el Ayuntamiento. La escultura central del Minotauro queda pendiente de comprobación presencial.
+- Laberinto vegetal frente al Jardín de los Sentidos y junto al lago inferior; forma cuadrada, casi 1.000 m², unos 450 m de pared y cinco corredores de escasa dificultad según la documentación. La escultura central del Minotauro queda pendiente de comprobación presencial.
 - Cítricos y huerta.
 - Noria.
 - Antigua Era.

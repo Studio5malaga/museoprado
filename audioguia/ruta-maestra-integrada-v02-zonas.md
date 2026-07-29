@@ -53,6 +53,7 @@
 **Contenido:**
 
 - Lago.
+- Laberinto vegetal visitable junto al lago inferior, con escultura central de un minotauro.
 - Cítricos y huerta.
 - Noria.
 - Antigua Era.
@@ -64,7 +65,9 @@
 
 **Función narrativa:** explicar que La Concepción no nació únicamente como jardín ornamental, sino sobre una finca agrícola y productiva.
 
-**Silencios recomendados:** lago, olivo y colección de palmeras.
+**Silencios recomendados:** lago, laberinto vegetal, olivo y colección de palmeras.
+
+**Asociación:** el laberinto es una actuación visitable de la Asociación de Amigos. El vivero situado junto al ramal del Acueducto de San Telmo es privado y no visitable; no se incluye como parada.
 
 **Pendiente:** comprobar si el enlace entre esta zona, la colección V y el eje histórico evita volver a la entrada.
 
@@ -121,7 +124,7 @@
 - Antigua Era.
 - Ruta Forestal.
 - Presa.
-- Observatorio de aves.
+- Observatorio de aves, cuyo mirador fue aportado como donación de la Asociación de Amigos.
 
 **Función narrativa:** segunda etapa de propietarios, paisaje regionalista, memoria social y transición al jardín botánico público y al paisaje mediterráneo.
 

@@ -14,8 +14,7 @@ Según la información de la propia asociación:
 - Publica la revista “Ave del Paraíso” y participa en la edición de libros.
 - Su web indica una comunidad de más de 1.300 socios; esta cifra debe actualizarse antes de publicar porque puede cambiar.
 - Cuenta con una biblioteca especializada vinculada al jardín.
-- La biblioteca se denomina “José Antonio del Cañizo” y está vinculada a la antigua escuela del jardín.
-- El proyecto aporta que la biblioteca se inaugurará en otoño de 2026; verificar el estado real antes de grabar/publicar.
+- La biblioteca se denomina “José Antonio del Cañizo” y está vinculada a la antigua escuela del jardín. Abre los jueves por la mañana hasta aproximadamente las 13:00–13:30; en agosto permanece cerrada por vacaciones. El horario debe actualizarse antes de publicar.
 - La asociación cuenta con un vivero junto al ramal del Acueducto de San Telmo. Es de uso privado para conservación vegetal y no es visitable; no debe proponerse como parada ni como acceso para el visitante.
 - Sus actividades abarcan cultura, arte, botánica, ornitología, educación, conservación y memoria histórica.
 - El mirador de aves de la Ruta Forestal fue aportado como donación de la Asociación de Amigos.
@@ -50,7 +49,7 @@ El audio debe distinguir:
 
 - La función histórica de la escuela para hijos de empleados y personas del entorno.
 - La función contemporánea de la biblioteca.
-- El estado de inauguración o apertura en la fecha de publicación.
+- La biblioteca abre los jueves por la mañana hasta aproximadamente las 13:00–13:30 y permanece cerrada en agosto por vacaciones; estos datos deben actualizarse antes de publicar.
 
 Redacción provisional:
 
@@ -91,6 +90,10 @@ En lugar de cerrar con cifras abstractas de gestión, podemos mostrar el present
 - Biblioteca especializada.
 - Vivero y conservación.
 - Memoria histórica compartida.
+
+## Exedra y demostración acústica
+
+La Exedra, frente al Museo Loringiano, es un banco semicircular de piedra conocido como “banco de los secretos”. Su forma permite que una voz baja emitida en un extremo pueda percibirse en el otro. Puede convertirse en una pequeña experiencia sonora del tour, pero el efecto debe comprobarse in situ y no debe animarse a los visitantes a bloquear el paso.
 
 ## Tratamiento recomendado
 

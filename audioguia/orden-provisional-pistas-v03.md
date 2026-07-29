@@ -43,16 +43,19 @@
 25. **La Gran Araucaria** — *Araucaria heterophylla* y escala vegetal. H16 / mapa 11.
 26. **El Cenador de las Glicinias** — Hierro, glicinia y arquitectura viva. H17 / mapa 9.
 27. **La Cascada de Rafael Echevarría** — Segunda etapa de propietarios y nuevo paisaje acuático. H19 / mapa 13.
+28. **Avenida de Palmeras y Ruta de Miradores** — Transición hacia la zona alta y vistas. H20/M2-M4.
+29. **Miradores secundarios y Ruta Forestal** — Castilla y León, Amigos, coníferas, presa y observatorio. M6-M8/P4/P9-P11.
+30. **Regreso y Museo Loringiano** — Descenso cómodo hacia el templete, reproducción del mosaico y Exedra/banco de los secretos. H21 / mapa 4.
+31. **Cierre: un jardín vivo** — Salida, conservación, Asociación y futuro.
 
-### Zona 5 — Palmeras, miradores y paisaje alto
+### Zona 5 — Palmeras, miradores, retorno y cierre
 
 28. **Avenida de Palmeras** — Plumerias, palmeras y etapa Echevarría-Echevarrieta. H20/M2-M3 / mapa 15.
 29. **El Mirador Histórico** — Cúpula, estanque, ciudad y paisaje. M4/P13 / mapa 17.
-30. **Los otros miradores** — Castilla y León, Mirador de los Amigos y camino umbrío. M6-M8 / mapa 18.
-31. **Coníferas y Ruta Forestal** — Secuoyas, paisaje mediterráneo y desnivel. P4/P9 / mapas 27 y 44.
-32. **Presa y Observatorio de aves** — Agua, paisaje y mirador donado por la Asociación de Amigos. P10-P11 / mapa 45.
-33. **Cactus y suculentas** — Contraste de aridez antes del regreso. P14 / mapa 16.
-34. **Cierre: un jardín vivo** — Asociación, conservación, investigación, memoria y despedida.
+30. **Los otros miradores y Ruta Forestal** — Castilla y León, Amigos, coníferas, presa y observatorio. M6-M8/P4/P9-P11 / mapas 18, 27, 44 y 45.
+31. **Cactus y suculentas** — Contraste de aridez antes del regreso. P14 / mapa 16.
+32. **Museo Loringiano y Exedra** — Descenso hacia el templete, reproducción del mosaico y banco de los secretos. H21 / mapa 4.
+33. **Cierre: un jardín vivo** — Asociación, conservación, biblioteca, investigación, memoria y despedida.
 
 ## Silencios principales
 

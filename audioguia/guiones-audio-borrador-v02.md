@@ -41,7 +41,7 @@ Cuando estés preparado, continúa hacia el Paseo de Plátanos.
 
 Camina ahora bajo la doble alineación de plátanos de sombra.
 
-Estos árboles forman una bóveda vegetal que transforma la entrada en una experiencia gradual. La luz llega filtrada, el camino parece más estrecho y el visitante empieza a caminar a otra velocidad.
+Estos árboles pertenecen al género *Platanus*: son plátanos de sombra, árboles caducifolios de gran porte muy utilizados en avenidas y paseos históricos. Forman una bóveda vegetal que transforma la entrada en una experiencia gradual. La luz llega filtrada, el camino parece más estrecho y el visitante empieza a caminar a otra velocidad.
 
 Los plátanos son árboles caducifolios. Su aspecto cambia con las estaciones: en los meses cálidos construyen este techo de hojas; después pierden parte de su follaje y dejan pasar una luz muy diferente. La propia estación del año modifica la arquitectura del paseo.
 

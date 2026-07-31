@@ -209,8 +209,8 @@ V8 Escalinata y mapa mural.
 - La compra por los Loring se fecha de forma variable en torno a 1850–1855.
 - La transformación del jardín comenzó probablemente en la segunda mitad de la década de 1850.
 - Jacinto Chamoussent aparece relacionado con el jardín hacia 1857.
-- La Casa-Palacio se fecha aproximadamente hacia 1860–1861; su arquitecto no está confirmado.
-- El Museo Loringiano se fecha hacia 1859–1860; su autoría arquitectónica no está cerrada.
+- La Casa-Palacio se atribuye institucionalmente a August Orth; la fecha exacta se mantiene en torno a 1860–1861, sin fijar 1865.
+- El Museo Loringiano fue construido en 1859 y se atribuye institucionalmente a Johann Heinrich Strack.
 - En 1911 la propiedad pasó a la familia Echevarría-Echevarrieta.
 - En 1943 fue declarada jardín histórico-artístico.
 - En 1990 fue adquirida por el Ayuntamiento de Málaga.

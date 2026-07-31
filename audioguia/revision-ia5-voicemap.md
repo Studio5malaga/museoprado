@@ -79,7 +79,7 @@ Objetivo de narración: aproximadamente 75–80 minutos, ajustable tras la prueb
 - Casa-Palacio.
 - Casa del Administrador.
 - Casita del Jardinero.
-- Casita de los Cipreses.
+- Casa de los Cipreses.
 
 ### Riesgo bajo
 

@@ -41,7 +41,7 @@ La suma exacta se ajustará después de medir los recorridos reales y decidir la
 | 8 | H9-H10 / mapa 9-10 | Puente peatonal, kiosco oriental y vegetación húmeda | Tránsito | 2 min | 3 min | — | Directa breve |
 | 9 | H14-H15 / mapa 12 | Ría de la Ninfa, escultura y puente de troncos | Estación | 3,5 min | 3 min | 4 min | Directa |
 | 10 | H16 / mapa 11 | Gran araucaria y plantas monumentales de sotobosque | Estación | 2,5 min | 2 min | — | Directa |
-| 11 | mapa 10 / H19 | Cascada de Monsteras | Estación + silencio | 3 min | 3 min | 4 min | Directa |
+| 11 | mapa 10 / código H pendiente | Cascada de Monsteras | Estación + silencio | 3 min | 3 min | 4 min | Directa |
 | 12 | H11-H13 / mapa 14 | Jardín de González-Andreu y bosquete de cipreses | Estación | 3 min | 4 min | 2 min | Directa |
 | 13 | H19 / mapa 13 | Cascada de Rafael Echevarría y transición de propietarios | Estación | 2,5 min | 3 min | 2 min | Directa |
 | 14 | H17 / mapa 9 | Cenador de las Glicinias | Estación + silencio | 3 min | 4 min | 4 min | Directa |
@@ -155,7 +155,7 @@ Estos silencios no tienen por qué ser pistas GPS independientes. Pueden formar 
 
 - Orden exacto de los puntos H17, H18, H19, H20 y H21.
 - Enlace real entre Jardín Histórico, Ruta E y Ruta L.
-- Acceso a Casa-Palacio, Casa del Administrador, Casita de los Cipreses y Casita del Jardinero.
+- Acceso a Casa-Palacio, Casa del Administrador, Casa de los Cipreses y Casita del Jardinero.
 - Estado actual de las exposiciones.
 - Estado de los invernaderos.
 - Presencia estacional de lotos y *Victoria cruziana*.

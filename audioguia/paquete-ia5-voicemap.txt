@@ -34,9 +34,9 @@ Cuando una especie aparece en la guía, eso confirma que está documentada en el
 | 5 | Glorieta de Amalia Heredia | H3 | Ensanche del Paseo de Plátanos, vistas hacia el jardín y grandes árboles | Estación breve / tránsito | **B.** Confirmar si el nombre se refiere exactamente al punto de la glorieta o a un área más amplia. |
 | 6 | Jardín histórico | H; núcleo H3-H20 | Paisajismo romántico, agua, arquitectura y arboleda histórica | Estación de contexto | **A/B/C.** La superficie exacta es contradictoria: no fijar todavía 3, 3,5 o 5 ha. |
 | 7 | El Teatrillo. Busto de Amalia Heredia | H5 | Antiguo espacio de representaciones familiares, busto y relación con la antigua pista de tenis | Estación breve | **B.** Confirmar cronología del busto y acceso real a la explanada. No afirmar que fue una de las primeras pistas de tenis de Málaga. |
-| 8 | Casa-Palacio. Pista de tenis | H7; H5 | Residencia de los fundadores, estanque del Tritón, antigua pista de tenis | Estación | **B/C.** Fecha aproximada hacia 1860; autoría arquitectónica pendiente. No fijar aún August Orth. |
+| 8 | Casa-Palacio. Pista de tenis | H7; H5 | Residencia de los fundadores, estanque del Tritón, antigua pista de tenis | Estación | **A/B/C.** La web institucional atribuye la Casa-Palacio a August Orth. La fecha exacta se mantiene prudente: la guía la sitúa hacia 1860–1861; no usar 1865 sin fuente primaria específica. |
 | 9 | Cenador con glicinias | H17 | Hierro y *Wisteria sinensis*, floración y arquitectura vegetal | Estación + silencio | **A/B/C.** Nombre confirmado en mapas y guía. Fecha exacta pendiente; la guía indica tallos de más de 25 m. |
-| 10 | Cascada de Monsteras / “Mosteras” en el mapa | H15-H19 según el tramo de guía | Cascada, *Monstera deliciosa*, humedad y paisaje romántico | Estación | **B/C.** El mapa presenta posible errata “Mosteras”; usar provisionalmente “Monsteras” y confirmarlo con el jardín. No fusionarla con la cascada de Rafael Echevarría. |
+| 10 | Cascada de Monsteras / “Mosteras” en el mapa | H; código H exacto pendiente de campo (no H19) | Cascada, *Monstera deliciosa*, humedad y paisaje romántico | Estación | **B/C.** El mapa presenta posible errata “Mosteras”; usar provisionalmente “Monsteras” y confirmarlo con el jardín. No fusionarla con la cascada de Rafael Echevarría. |
 | 11 | *Araucaria heterophylla* | H16 | Gran araucaria o pino de pisos, origen en isla de Norfolk | Estación botánica | **B.** Especie documentada en la guía. No utilizar todavía la cifra de 48 m sin confirmación independiente. |
 | 12 | Escultura y Ría de la Ninfa | H14-H15 | Ría/arroyo, escultura de Valentín Dueñas, vegetación acuática y de sombra | Estación | **B/C.** Nombre documental variable: Ría de la Ninfa / Arroyo de la Ninfa. Mantener ambas variantes registradas. |
 | 13 | Cascada de Rafael Echevarría | H19 | Cascada relacionada con la etapa Echevarría-Echevarrieta | Estación | **B.** La zona pertenece a la segunda etapa; la autoría personal de Rafael Echevarría queda pendiente. |
@@ -47,7 +47,7 @@ Cuando una especie aparece en la guía, eso confirma que está documentada en el
 | 18 | Ruta de los Miradores | M | Senderos panorámicos, miradores secundarios y vegetación de ladera | Tránsito / bloque panorámico | **B.** No es un único punto de observación. Requiere varios triggers o un audio de tránsito. |
 | 19 | Casa del Administrador. Sala de exposiciones | V1; H6 | Dependencias de servicio, exposiciones, despachos y laboratorios según la documentación | Estación breve | **B/C.** Confirmar usos actuales y accesibilidad interior. |
 | 20 | La Vuelta al Mundo en 80 Árboles | V | Árboles de los continentes, colección didáctica y mapa mural | Estación de contexto / tránsito | **A/B.** La ruta tiene varios puntos propios; no reducirla a un solo sendero o audio. |
-| 21 | Casita de los Cipreses. Sede de la Asociación de Amigos | V2; H6 | Alineación de cipreses, almez y asociación | Estación breve / tránsito | **B.** Confirmar acceso y uso actual. No confundir con la Casita del Jardinero. |
+| 21 | Casa de los Cipreses. Sede de la Asociación de Amigos | V2; H6 | Alineación de cipreses, almez y asociación | Estación breve / tránsito | **B.** Confirmar acceso y uso actual. No confundir con la Casita del Jardinero. |
 | 22 | Antigua escuela | V3 | Escuela para hijos de empleados y personas del entorno | Tránsito / estación breve | **B.** Uso histórico documentado en la guía; estado actual pendiente. |
 | 23 | Acueducto de San Telmo | V5; P8 | Restos o ramal del acueducto, relación entre agua, finca y ciudad | Estación breve | **B.** La guía habla de restos/ramal. No presentarlo como un gran acueducto completo visitable sin comprobarlo. |
 | 24 | Antigua Era | P8; V5 | Pasado agrícola, trilla y paisaje mediterráneo | Tránsito / estación breve | **B.** Función agrícola plausible y documentada por la guía; ubicación y estado actual deben comprobarse. |
@@ -120,7 +120,7 @@ Cuando una especie aparece en la guía, eso confirma que está documentada en el
 3. No llamar “confirmado actualmente” a una especie solo porque aparezca en una guía antigua.
 4. No mezclar el número del mapa general con el número de una ruta H/E/L/M/P/V.
 5. Mantener separados los nombres de las dos cascadas.
-6. Mantener diferenciados el Museo Loringiano, la Casita de los Cipreses y la Casita del Jardinero.
+6. Mantener diferenciados el Museo Loringiano, la Casa de los Cipreses y la Casita del Jardinero.
 7. Resolver antes de grabar las contradicciones sobre el Museo Loringiano, la superficie del jardín histórico y las fechas de construcción.
 8. Usar esta tabla como base para la siguiente versión de la ruta maestra y para futuros spin-offs.
 # Audioguía premium La Concepción
@@ -166,7 +166,7 @@ La suma exacta se ajustará después de medir los recorridos reales y decidir la
 | 8 | H9-H10 / mapa 9-10 | Puente peatonal, kiosco oriental y vegetación húmeda | Tránsito | 2 min | 3 min | — | Directa breve |
 | 9 | H14-H15 / mapa 12 | Ría de la Ninfa, escultura y puente de troncos | Estación | 3,5 min | 3 min | 4 min | Directa |
 | 10 | H16 / mapa 11 | Gran araucaria y plantas monumentales de sotobosque | Estación | 2,5 min | 2 min | — | Directa |
-| 11 | mapa 10 / H19 | Cascada de Monsteras | Estación + silencio | 3 min | 3 min | 4 min | Directa |
+| 11 | mapa 10 / código H pendiente | Cascada de Monsteras | Estación + silencio | 3 min | 3 min | 4 min | Directa |
 | 12 | H11-H13 / mapa 14 | Jardín de González-Andreu y bosquete de cipreses | Estación | 3 min | 4 min | 2 min | Directa |
 | 13 | H19 / mapa 13 | Cascada de Rafael Echevarría y transición de propietarios | Estación | 2,5 min | 3 min | 2 min | Directa |
 | 14 | H17 / mapa 9 | Cenador de las Glicinias | Estación + silencio | 3 min | 4 min | 4 min | Directa |
@@ -280,7 +280,7 @@ Estos silencios no tienen por qué ser pistas GPS independientes. Pueden formar 
 
 - Orden exacto de los puntos H17, H18, H19, H20 y H21.
 - Enlace real entre Jardín Histórico, Ruta E y Ruta L.
-- Acceso a Casa-Palacio, Casa del Administrador, Casita de los Cipreses y Casita del Jardinero.
+- Acceso a Casa-Palacio, Casa del Administrador, Casa de los Cipreses y Casita del Jardinero.
 - Estado actual de las exposiciones.
 - Estado de los invernaderos.
 - Presencia estacional de lotos y *Victoria cruziana*.

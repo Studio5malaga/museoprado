@@ -66,9 +66,9 @@ Continúa hasta que el camino se abra y aparezcan los primeros elementos de pied
 
 Ante ti se encuentra el Museo Loringiano, un templete de estilo dórico construido en 1859 por encargo de Jorge Loring y Amalia Heredia. La institución atribuye su diseño al arquitecto alemán Johann Heinrich Strack.
 
-El edificio nació para albergar una colección arqueológica. En 1858 se descubrió en Cártama un mosaico romano que representaba los Trabajos de Hércules. Jorge Loring lo adquirió y lo llevó a La Concepción. Sus dimensiones sirvieron como referencia para construir este pequeño museo, y un especialista llegado desde Roma participó en su reconstrucción.
+El edificio nació para albergar una colección arqueológica. En 1858 se descubrió en Cártama un mosaico romano que representaba los Trabajos de Hércules. La pieza fue llevada a La Concepción y sus dimensiones sirvieron como referencia para construir este pequeño museo. El mosaico fue recompuesto en el templete y permaneció allí hasta 1939.
 
-Hoy no contemplas aquí el mosaico original. El templete muestra una reproducción a tamaño real. El original se conserva fuera del jardín, como sucede también con las piezas arqueológicas más importantes de la colección.
+Hoy no contemplas aquí el mosaico original. El templete muestra una reproducción a tamaño real y el original ya no se expone en este lugar. La colección arqueológica se dispersó con el tiempo entre distintas instituciones.
 
 Entre ellas destaca la *Lex Flavia Malacitana*, un conjunto de tablas de bronce relacionado con las leyes municipales de la Málaga romana, conservado actualmente en el Museo Arqueológico Nacional. Otras piezas de la colección Loringiana se encuentran en el Museo de Málaga.
 
@@ -164,7 +164,7 @@ Frente al Jardín de los Sentidos y junto al lago inferior encontrarás un laber
 
 Tiene forma cuadrada, ocupa casi mil metros cuadrados y sus paredes vegetales se extienden aproximadamente a lo largo de cuatrocientos cincuenta metros. Para llegar al núcleo se recorren cinco corredores de escasa dificultad. Las buganvillas, bignonias, jazmines y celestinas convierten una estructura geométrica en una arquitectura viva.
 
-En el centro se encuentra una figura del Minotauro, incorporada con la inauguración de esta actuación contemporánea. En la mitología griega, el Minotauro habitaba el Laberinto de Creta, construido por Dédalo para el rey Minos. Teseo logró entrar y encontrar la salida gracias al hilo que le entregó Ariadna.
+En el centro está prevista una figura del Minotauro, cuya inauguración está programada para otoño de 2026. Si realizas la visita después de esa fecha, podrás contemplarla ya instalada; comprueba siempre el estado actual de la actuación. En la mitología griega, el Minotauro habitaba el Laberinto de Creta, construido por Dédalo para el rey Minos. Teseo logró entrar y encontrar la salida gracias al hilo que le entregó Ariadna.
 
 Aquí el mito cambia de escala. Ya no habla de miedo ni de encierro, sino de juego, orientación y descubrimiento. Puedes recorrer los corredores, escuchar cómo cambia el sonido de tus pasos y observar cómo las plantas construyen paredes que respiran y se mueven con el viento.
 

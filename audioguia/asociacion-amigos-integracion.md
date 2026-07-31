@@ -17,7 +17,7 @@ Según la información de la propia asociación:
 - La biblioteca se denomina “José Antonio del Cañizo” y está vinculada a la antigua escuela del jardín. Abre los jueves por la mañana hasta aproximadamente las 13:00–13:30; en agosto permanece cerrada por vacaciones. El horario debe actualizarse antes de publicar.
 - La asociación cuenta con un vivero junto al ramal del Acueducto de San Telmo. Es de uso privado para conservación vegetal y no es visitable; no debe proponerse como parada ni como acceso para el visitante.
 - Sus actividades abarcan cultura, arte, botánica, ornitología, educación, conservación y memoria histórica.
-- El mirador de aves de la Ruta Forestal fue aportado como donación de la Asociación de Amigos, según la información directa incorporada al proyecto; conviene comprobar la placa o documentación del punto antes de grabar.
+- La Asociación de Amigos financió una caseta de madera para observar aves en estrecha colaboración con el equipo técnico del Jardín. La instalación incluye banco, ventanales, dos comederos y un bebedero. Fue inaugurada coincidiendo con el Día Mundial de las Aves y el 20.º aniversario de la asociación. La asociación también ha participado en la clasificación de las especies presentes mediante visitas periódicas de sus socios.
 - Su actuación reciente frente al Jardín de los Sentidos y junto al lago es un laberinto vegetal promovido por la asociación. Tiene forma cuadrada, casi 1.000 m² de superficie y unos 450 m de pared; para llegar al núcleo se recorren cinco corredores de escasa dificultad. Incluye buganvillas moradas, bignonias de invierno, bignonias rojas, variedades de jazmín y celestina, entre otras trepadoras. La figura del Minotauro se inaugurará en otoño de 2026, después de dejar crecer las plantas durante dos años. Puede integrarse plenamente en la versión de la audioguía posterior a la inauguración; para publicaciones anteriores debe existir una versión alternativa.
 - La asociación organiza o participa en concursos, exposiciones, actividades de divulgación y acciones vinculadas al jardín.
 
@@ -61,7 +61,7 @@ El vivero puede mencionarse únicamente como contexto de conservación vegetal. 
 
 ### 4. Observatorio de aves
 
-El mirador de aves de la Ruta Forestal fue aportado como donación de la Asociación de Amigos, según la información directa incorporada al proyecto. Puede explicarse como una contribución física a la observación y divulgación de la fauna del jardín. No decir que la asociación gestiona el observatorio salvo confirmación. La narración debe mencionar también al Patronato y a los jardineros municipales, que sostienen el funcionamiento diario del jardín.
+La Asociación de Amigos financió la caseta de observación en colaboración con el equipo técnico del Jardín. Puede explicarse como una contribución física a la observación y divulgación de la fauna. La instalación cuenta con banco, ventanales, comederos y bebedero, y está apoyada por una guía de aves para consulta de visitantes. No decir que la asociación gestiona oficialmente el observatorio. La narración debe mencionar también al Patronato y a los jardineros municipales, que sostienen el funcionamiento diario del jardín.
 
 ### 5. Laberinto vegetal junto al lago inferior
 

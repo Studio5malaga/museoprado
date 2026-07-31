@@ -17,7 +17,7 @@ Según la información de la propia asociación:
 - La biblioteca se denomina “José Antonio del Cañizo” y está vinculada a la antigua escuela del jardín. Abre los jueves por la mañana hasta aproximadamente las 13:00–13:30; en agosto permanece cerrada por vacaciones. El horario debe actualizarse antes de publicar.
 - La asociación cuenta con un vivero junto al ramal del Acueducto de San Telmo. Es de uso privado para conservación vegetal y no es visitable; no debe proponerse como parada ni como acceso para el visitante.
 - Sus actividades abarcan cultura, arte, botánica, ornitología, educación, conservación y memoria histórica.
-- El mirador de aves de la Ruta Forestal fue aportado como donación de la Asociación de Amigos.
+- El mirador de aves de la Ruta Forestal fue aportado como donación de la Asociación de Amigos, según la información directa incorporada al proyecto; conviene comprobar la placa o documentación del punto antes de grabar.
 - Su actuación reciente frente al Jardín de los Sentidos y junto al lago es un laberinto vegetal promovido por la asociación. Tiene forma cuadrada, casi 1.000 m² de superficie y unos 450 m de pared; para llegar al núcleo se recorren cinco corredores de escasa dificultad. Incluye buganvillas moradas, bignonias de invierno, bignonias rojas, variedades de jazmín y celestina, entre otras trepadoras. La figura del Minotauro se inaugurará en otoño de 2026, después de dejar crecer las plantas durante dos años. Puede integrarse plenamente en la versión de la audioguía posterior a la inauguración; para publicaciones anteriores debe existir una versión alternativa.
 - La asociación organiza o participa en concursos, exposiciones, actividades de divulgación y acciones vinculadas al jardín.
 
@@ -29,7 +29,7 @@ Debe tener una estación breve o una mención destacada dentro del bloque de edi
 
 Idea principal:
 
-> La historia del jardín no terminó cuando dejó de ser una finca privada. Hoy existe una comunidad de personas que mantiene vivo su conocimiento, su memoria y su relación con la ciudad.
+> La historia del jardín continúa: después de las etapas Loring-Heredia y Echevarría-Echevarrieta, y de su incorporación al patrimonio municipal, nuevas instituciones y comunidades siguen enriqueciendo su memoria y su conocimiento. Hoy existe una comunidad de personas que mantiene vivo su conocimiento, su memoria y su relación con la ciudad.
 
 Contenido posible:
 
@@ -61,7 +61,7 @@ El vivero puede mencionarse únicamente como contexto de conservación vegetal. 
 
 ### 4. Observatorio de aves
 
-El mirador de aves de la Ruta Forestal fue aportado como donación de la Asociación de Amigos. Puede explicarse como una contribución física de la asociación a la observación y divulgación de la fauna del jardín. No decir que la asociación gestiona el observatorio salvo confirmación.
+El mirador de aves de la Ruta Forestal fue aportado como donación de la Asociación de Amigos, según la información directa incorporada al proyecto. Puede explicarse como una contribución física a la observación y divulgación de la fauna del jardín. No decir que la asociación gestiona el observatorio salvo confirmación. La narración debe mencionar también al Patronato y a los jardineros municipales, que sostienen el funcionamiento diario del jardín.
 
 ### 5. Laberinto vegetal junto al lago inferior
 

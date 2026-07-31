@@ -215,7 +215,7 @@ Has visto edificios, caminos, agua, árboles monumentales, plantas procedentes d
 
 Un jardín histórico no permanece vivo por accidente. Necesita personas que rieguen, poden, investiguen, restauren, cataloguen, enseñen y conserven. Necesita instituciones públicas, profesionales, asociaciones, socios, visitantes y nuevas generaciones capaces de reconocer su valor.
 
-La Asociación de Amigos, con su actividad cultural, botánica, artística y ornitológica, representa una de las formas contemporáneas de esa continuidad. La biblioteca especializada, el mirador de aves, el vivero privado de conservación y el laberinto vegetal muestran que La Concepción no es un lugar detenido en el siglo XIX. Es un espacio que sigue creciendo y reinterpretándose.
+La Asociación de Amigos, con su actividad cultural, botánica, artística y ornitológica, representa una de las formas contemporáneas de esa continuidad. Según la información incorporada al proyecto, el mirador de aves de la Ruta Forestal fue donado por la asociación; este dato se comprobará también en la señalización del punto. La biblioteca especializada, el mirador de aves, el vivero privado de conservación y el laberinto vegetal muestran que La Concepción no es un lugar detenido en el siglo XIX. Es un espacio que sigue creciendo y reinterpretándose.
 
 Cuando salgas, quizá recuerdes una planta, una vista o una pieza arquitectónica concreta. Pero la idea que reúne todas las demás es sencilla: este jardín es el resultado de muchas capas de tiempo, de muchas manos y de una relación permanente entre naturaleza y cultura.
 

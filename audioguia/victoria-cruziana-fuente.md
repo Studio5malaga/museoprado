@@ -20,7 +20,7 @@ Fuente: [Málaga Hoy — El Jardín Botánico alberga un ejemplar único de nen�
 
 ## Datos que deben seguir fuera del audio general
 
-- Nombre exacto y ubicación del calentador oculto junto al ginkgo: verificar antes de mencionarlo.
-- Fechas exactas de retirada al invernadero y retorno al estanque: verificar con el jardín.
-- Capacidad de carga de las hojas: reservar para spin-off o material escrito.
+- Ubicación del calentador junto al *Ginkgo biloba*: confirmada por observación directa del proyecto.
+- No existe un calendario rígido de retirada y retorno: la planta se recoge cuando llega el frío invernal y se devuelve al estanque cuando regresan las temperaturas cálidas, según la climatología anual.
+- La fuente consultada indica que las hojas pueden llegar a soportar hasta 40 kg; conviene utilizarlo solo como curiosidad secundaria, no como invitación a tocar o subirse a la planta.
 - Polinización manual: puede incluirse en una versión extendida, pero no es imprescindible para el audio general.

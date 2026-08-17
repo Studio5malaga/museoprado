@@ -51,8 +51,7 @@ Datos aportados por el proyecto para verificar/documentar:
 
 - Es el único ejemplar que se ha conseguido aclimatar al aire libre en Europa, sin mantenerse dentro de un invernadero.
 - Su aclimatación se relaciona con el microclima de La Concepción y de Málaga.
-- El agua del estanque se calienta mediante un sistema oculto.
-- El calentador está situado junto al *Ginkgo biloba*.
+- El agua del estanque se calienta mediante un sistema oculto situado junto al *Ginkgo biloba*. Este dato queda confirmado por observación directa del proyecto.
 - En invierno la planta se retira del estanque y pasa el periodo frío en un invernadero.
 - Se vuelve a colocar en el estanque a finales de primavera.
 

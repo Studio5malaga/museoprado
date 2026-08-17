@@ -33,12 +33,13 @@
 
 ### Bosquete de cipreses y ardillas
 
-En condiciones de silencio y calma pueden observarse ardillas, descritas por el proyecto como una población reintroducida hace décadas por la Asociación de Amigos del Jardín Botánico. Este dato debe documentarse con la Asociación o una fuente específica antes de presentarlo como hecho histórico.
+En condiciones de silencio y calma pueden observarse ardillas rojas (*Sciurus vulgaris*). La Diputación de Málaga documenta que fueron introducidas en los Montes de Málaga durante los años setenta con ejemplares procedentes de la Sierra de Cazorla. La historia local relaciona esta introducción con José Ángel Carrera Morales, primer presidente de la Asociación de Amigos; no afirmar que la Asociación, como entidad creada en 1995, realizara personalmente aquella suelta sin una fuente más precisa.
 
 Tratamiento recomendado:
 
 - No prometer avistamientos.
 - Invitar a caminar en silencio.
+- Explicar que la ardilla roja está activa durante todo el año en el clima mediterráneo, aunque puede ser menos visible durante las horas de calor.
 - Presentar la observación como posibilidad.
 - No usar sonidos artificiales de ardillas.
 

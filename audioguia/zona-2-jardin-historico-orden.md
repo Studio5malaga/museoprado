@@ -21,7 +21,7 @@
 13. Escultura de la Ninfa.
 14. Árbol o ejemplar próximo a la Ría cuya fructificación puede provocar el cierre temporal de la zona — nombre pendiente.
 15. Puente de troncos.
-16. Cascada y escenario cinematográfico.
+16. Cascada de Monsteras, visible a la izquierda al cruzar el puente desde la Fuente/Ría de la Ninfa.
 17. Gran Araucaria.
 18. Cenador de las Glicinias.
 19. Casa-Palacio.
@@ -74,6 +74,12 @@ No identificarlo por intuición. Debe comprobarse:
 - Si el cierre es periódico o excepcional.
 
 Hasta conocer el nombre, no incluirlo en narración.
+
+### Cascada de Monsteras y estanque de Monsteras
+
+La Cascada de Monsteras se encuentra justo después de cruzar el Puente de troncos desde la zona de la Fuente/Ría de la Ninfa; al mirar a la izquierda se hace visible la caída de agua.
+
+Debe diferenciarse de otro elemento situado al fondo del Cenador de las Glicinias: un estanque también relacionado con las monsteras y con peces carpas. La relación exacta entre ambos elementos y su denominación oficial queda pendiente de la confirmación final del proyecto.
 
 ### Rodajes cinematográficos
 

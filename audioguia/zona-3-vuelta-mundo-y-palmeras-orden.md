@@ -20,10 +20,13 @@
 12. Palmera datilera de ocho brazos.
 13. Colección de Vides Malagueñas.
 14. Olivo monumental.
-15. Sendero hacia la Antigua Era.
-16. Antigua Era.
-17. Cruce de cuatro caminos.
-18. Enlace con el siguiente bloque: Ruta Forestal.
+15. Paseo de las Secuoyas, visible hacia la derecha.
+16. Mirador de los Pinos.
+17. Retorno al eje de la colección de vides.
+18. Sendero hacia la Antigua Era.
+19. Antigua Era.
+20. Cruce de cuatro caminos.
+21. Enlace con el siguiente bloque: Ruta Forestal.
 
 ## Agrupaciones recomendadas
 

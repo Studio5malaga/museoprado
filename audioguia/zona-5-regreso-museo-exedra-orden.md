@@ -79,7 +79,7 @@ Tratamiento recomendado:
 
 ## Mosaico de Cártama
 
-El mosaico de Cártama está confirmado por la cartelería expuesta en el propio jardín y por la información del Jardín Botánico. El audio puede afirmar el hallazgo, su relación con el Museo Loringiano y la existencia de una reproducción actual. El supuesto traslado posterior a Bilbao aparece en fuentes secundarias, pero no es necesario incorporarlo hasta contar con confirmación institucional específica.
+El mosaico de Cártama está confirmado por la cartelería expuesta en el propio jardín y por la información del Jardín Botánico. El Ayuntamiento de Cártama documenta que el original fue trasladado posteriormente al panteón familiar de los Echevarría-Echevarrieta en el cementerio municipal de Getxo, Vizcaya, donde se conserva. En La Concepción se muestra una reproducción a tamaño real. El audio puede mencionar este destino, diferenciándolo de la *Lex Flavia Malacitana*, que se conserva en el Museo Arqueológico Nacional.
 
 ## Pinos canarios y fotografía histórica
 

@@ -100,7 +100,7 @@ Tratamiento recomendado:
 
 > Aquí aparecen árboles que ayudan a imaginar el paisaje anterior al jardín. La edad del gran pino y del algarrobo es una estimación, no una datación exacta. Su tamaño y su presencia permiten plantear la posibilidad de que algunos ejemplares sobrevivieran a la transformación de la finca.
 
-La especie del pino queda confirmada como *Pinus pinea*; el diámetro, la edad aproximada y la prioridad de antigüedad del algarrobo siguen siendo estimaciones del proyecto, no dataciones científicas.
+La especie del pino queda confirmada como *Pinus pinea*. El ejemplar tiene un tronco tan ancho que hacen falta al menos dos personas para rodearlo con los brazos. Tiene con seguridad más de un siglo; los aproximadamente 200 años son una estimación plausible, pero no una datación científica. El algarrobo parece igualmente antiguo y podría ser anterior al pino, aunque no hay forma de afirmarlo sin un estudio.
 
 ### Mapa mural y colección de palmeras
 
@@ -168,6 +168,10 @@ Puntos de contemplación previstos:
 | 6 | Vides y Olivo | Estación agrícola | Memoria productiva y árboles históricos |
 | 7 | Antigua Era y cruce | Tránsito | Pasado agrícola y enlace con Ruta Forestal |
 
+### Baobabs de la ladera
+
+En la ladera cuya parte alta ocupa el Mirador Histórico de Echevarría pueden observarse baobabs vivos y en floración desde el sendero inferior. Actualmente son ejemplares jóvenes, de aproximadamente 2–3 metros. La especie exacta y la fecha de plantación no están identificadas en la señalización, por lo que se describirán como baobabs hasta obtener el catálogo correspondiente.
+
 ## Datos pendientes de campo
 
 - Acceso real a la sala de exposiciones de la Casa del Administrador.
@@ -175,8 +179,7 @@ Puntos de contemplación previstos:
 - Estado y horario de la Biblioteca.
 - Punto exacto del ramal visible.
 - Confirmación de que el vivero queda junto al ramal y no es visitable.
-- Especie exacta del gran pino.
-- Diámetro real y método de estimación de edad.
+- Diámetro exacto del gran pino y método de estimación de edad.
 - Presencia de procesionaria, avisos activos y condiciones para utilizar el banco.
 - Identificación y edad del algarrobo.
 - Ubicación exacta de las escaleras.

@@ -17,10 +17,11 @@
 9. Casita del Jardinero y exposición de muñecas/figuras.
 10. Invernaderos o estufas históricas del siglo XIX.
 11. Alberca de los Claveles.
-12. Glicinia de flores blancas.
-13. Paseo de Hibiscos.
-14. Bosque de bambú negro.
-15. Regreso a la entrada, cafetería y aseos.
+12. Glicinia blanca, *Wisteria sinensis*.
+13. *Macfadyena unguis-cati*, de flores naranjas, cubriendo la fachada del invernadero adyacente.
+14. Paseo de Hibiscos.
+15. Bosque de bambú negro.
+16. Regreso a la entrada, cafetería y aseos.
 
 ## Hilo narrativo
 

@@ -12,7 +12,7 @@ Sus pelos son urticantes y pueden provocar reacciones importantes. El riesgo es 
 
 ## Tratamiento en la audioguía
 
-No conviene introducir una alarma fija en el audio permanente, porque el riesgo es estacional y cambia cada año. Debe aparecer en:
+Como el jardín no suele colocar necesariamente un aviso visible en ese banco, la audioguía debe incluir una advertencia estacional clara cuando corresponda. El texto debe actualizarse según la climatología de cada año y debe aparecer en:
 
 - Información práctica actualizable de VoiceMap.
 - Avisos temporales del jardín.

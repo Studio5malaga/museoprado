@@ -9,9 +9,13 @@
 
 La guía del jardín identifica una *Araucaria bidwillii* en el entorno de la Ría de la Ninfa. No debe confundirse con la *Araucaria heterophylla* o araucaria de Norfolk de la estación de la Gran Araucaria.
 
+## Periodo de mayor riesgo
+
+La época de mayor peligro suele abarcar desde finales del verano hasta mediados del otoño, aproximadamente entre agosto y noviembre. El momento exacto depende de la maduración de los conos y de las temperaturas de cada año.
+
 ## Motivo de seguridad
 
-La especie produce conos femeninos muy grandes y pesados, con escamas puntiagudas, que pueden desprenderse desde altura. Por este motivo, el jardín puede cerrar preventivamente la zona durante el periodo de riesgo o durante la retirada de los conos. El momento exacto depende de la climatología y de la gestión del jardín.
+La especie produce conos femeninos muy grandes y pesados, con escamas puntiagudas, que pueden desprenderse desde alturas superiores a los 20 metros. Una piña madura puede pesar aproximadamente entre 5 y 10 kilos. Por este motivo, el jardín puede cerrar preventivamente la zona durante el periodo de riesgo o durante la retirada de los conos. El momento exacto depende de la climatología y de la gestión del jardín.
 
 La imagen aportada muestra un cono de la especie. No utilizaremos “fruto” como término principal: botánicamente es un cono o estróbilo femenino de una conífera.
 
@@ -23,8 +27,8 @@ La imagen aportada muestra un cono de la especie. No utilizaremos “fruto” co
 
 ## Datos que no fijaremos sin fuente específica
 
-- Peso máximo exacto de los conos en este ejemplar.
+- Peso exacto de los conos en este ejemplar.
 - Altura exacta del árbol.
-- Fechas fijas del cierre preventivo.
+- La fecha de cierre debe tratarse como variable anual, aunque el periodo habitual sea agosto-noviembre.
 - Si la zona se cierra todos los años.
 - Afirmaciones de que sus conos son “cuchillas” o “proyectiles”.

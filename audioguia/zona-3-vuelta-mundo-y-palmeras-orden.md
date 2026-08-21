@@ -90,7 +90,7 @@ La documentación del MITECO confirma la existencia de clones resistentes de *Ul
 El proyecto aporta:
 
 - Un pino piñonero, *Pinus pinea* L., confirmado por el catálogo de árboles del jardín.
-- Un ejemplar de enorme tamaño, con tronco cercano a 3 m de diámetro.
+- Un ejemplar de enorme tamaño, con tronco cercano a 3 m de diámetro; su tronco es tan ancho que hacen falta varias personas para rodearlo.
 - Estimación aproximada de unos 200 años.
 - Hipótesis de que ya existía antes de la creación del jardín.
 - Un algarrobo, *Ceratonia siliqua*, posiblemente aún más antiguo.
@@ -100,7 +100,7 @@ Tratamiento recomendado:
 
 > Aquí aparecen árboles que ayudan a imaginar el paisaje anterior al jardín. La edad del gran pino y del algarrobo es una estimación, no una datación exacta. Su tamaño y su presencia permiten plantear la posibilidad de que algunos ejemplares sobrevivieran a la transformación de la finca.
 
-La especie del pino queda confirmada como *Pinus pinea*. El ejemplar tiene un tronco tan ancho que hacen falta al menos dos personas para rodearlo con los brazos. Tiene con seguridad más de un siglo; los aproximadamente 200 años son una estimación plausible, pero no una datación científica. El algarrobo parece igualmente antiguo y podría ser anterior al pino, aunque no hay forma de afirmarlo sin un estudio.
+La especie del pino queda confirmada como *Pinus pinea*. El ejemplar tiene un tronco tan ancho que hacen falta varias personas para rodearlo con los brazos. Tiene con seguridad más de un siglo; los aproximadamente 200 años son una estimación plausible, pero no una datación científica. El algarrobo parece igualmente antiguo y podría ser anterior al pino, aunque no hay forma de afirmarlo sin un estudio.
 
 ### Mapa mural y colección de palmeras
 
@@ -147,7 +147,9 @@ Este paseo no debe confundirse con la Avenida de Palmeras de la etapa Echevarrí
 
 ## Recorrido de la Vuelta al Mundo en 80 Árboles
 
-La ruta se recorrerá aproximadamente en un 80 % siguiendo este orden, sin detenerse árbol por árbol. La narración agrupará los ejemplares por continentes, estrategias de adaptación y cambios de paisaje. El objetivo es conservar el sentido del viaje botánico sin alargar innecesariamente la experiencia ni generar un efecto yo-yo.
+La ruta se recorrerá aproximadamente en un 80 % siguiendo el orden del proyecto, sin detenerse árbol por árbol. El audio comenzará en el Mapa Mural de los Continentes y la colección central de palmeras formará parte del mismo viaje botánico. La narración agrupará los ejemplares por continentes, estrategias de adaptación y cambios de paisaje, y terminará al inicio de la Ruta Forestal, justo al comenzar la cuesta hacia la presa.
+
+No es necesario mencionar todos los árboles. Durante el trayecto se destacarán solo los ejemplares más relevantes —como el olivo, las palmeras cubanas o la palmera datilera de ocho brazos, las secuoyas y otros árboles singulares— y se invitará a las personas interesadas a consultar las etiquetas botánicas situadas junto a cada ejemplar.
 
 Puntos de contemplación previstos:
 
@@ -170,7 +172,7 @@ Puntos de contemplación previstos:
 
 ### Baobabs de la ladera
 
-En la ladera cuya parte alta ocupa el Mirador Histórico de Echevarría pueden observarse baobabs vivos y en floración desde el sendero inferior. Actualmente son ejemplares jóvenes, de aproximadamente 2–3 metros. La especie exacta y la fecha de plantación no están identificadas en la señalización, por lo que se describirán como baobabs hasta obtener el catálogo correspondiente.
+En la ladera cuya parte alta ocupa el Mirador Histórico de Echevarría pueden observarse baobabs vivos y en floración desde el sendero inferior. La especie queda confirmada como *Adansonia digitata*. Actualmente son ejemplares jóvenes, de aproximadamente 2–3 metros; la fecha de plantación sigue pendiente.
 
 ## Datos pendientes de campo
 

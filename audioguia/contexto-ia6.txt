@@ -1,0 +1,101 @@
+CONTEXTO PARA IA 6 — AUDÍOGUÍA PREMIUM LA CONCEPCIÓN
+
+Estamos creando una audioguía premium completa del Jardín Botánico-Histórico La Concepción, Málaga, para publicarla posteriormente en VoiceMap.
+
+OBJETIVO
+
+- Experiencia total aproximada: 3 horas.
+- Aproximadamente 75 minutos de narración.
+- Aproximadamente 60 minutos caminando.
+- Aproximadamente 45 minutos de contemplación, fotografías y descanso.
+- Primera versión en español.
+- Más adelante habrá versiones cortas y especializadas.
+
+ESTADO DEL PROYECTO
+
+Ya existe una tabla maestra de 45 puntos del mapa general, una ruta maestra V0.2 organizada por zonas y fichas técnicas VoiceMap V0.1. La ruta V0.2 sigue siendo provisional porque aún no se ha realizado una visita in situ completa.
+
+Las rutas oficiales de referencia son:
+
+- H — Jardín Histórico.
+- E — Estanques e Invernaderos.
+- L — Lago y Colección de Frutales.
+- M — Ruta de los Miradores.
+- P — Ruta Perimetral.
+- V — Vuelta al Mundo en 80 Árboles y Colección de Palmeras.
+
+FUENTES DISPONIBLES
+
+- Web institucional del Jardín Botánico-Histórico La Concepción.
+- Audioguía web de Spertoria y sus transcripciones.
+- Mapa general del jardín con 45 puntos.
+- Guía de rutas de la Asociación de Amigos.
+- Mapas de las rutas H/E/L/M/P/V.
+- Auditorías de varias IAs.
+
+DATOS INSTITUCIONALMENTE REFORZADOS
+
+- La Casa-Palacio se atribuye al arquitecto alemán August Orth.
+- El Museo Loringiano es un templete dórico construido en 1859 y atribuido institucionalmente a Johann Heinrich Strack.
+- La Lex Flavia Malacitana se conserva en el Museo Arqueológico Nacional.
+- La mayor parte de las piezas romanas de la colección Loringiana se relaciona actualmente con el Museo de Málaga.
+- El mosaico de los Trabajos de Hércules se conserva fuera del jardín; actualmente se muestra una reproducción en el templete.
+- En 1911 la finca pasó a la familia Echevarría-Echevarrieta.
+- En 1943 fue declarada jardín histórico-artístico.
+- En 1990 fue adquirida por el Ayuntamiento de Málaga y abrió al público en 1994.
+
+REGLAS DE HONESTIDAD
+
+Distingue entre hecho confirmado, dato de guía especializada, dato probable, interpretación y dato pendiente.
+
+No inventes visitas de personalidades, edades de árboles, coordenadas, fechas de plantación, autorías no confirmadas ni usos históricos concretos.
+
+Usa “es fácil imaginar”, “podemos pensar” o “probablemente” cuando se trate de una interpretación.
+
+No confundas el número del mapa general con los códigos H/E/L/M/P/V.
+
+DIFERENCIAS IMPORTANTES
+
+- Paseo de Plátanos: tramo inicial de entrada.
+- Avenida de Palmeras: tramo posterior relacionado con la etapa Echevarría-Echevarrieta.
+- Cascada de Monsteras y Cascada de Rafael Echevarría: son dos elementos diferentes.
+- Casa de los Cipreses y Casita del Jardinero: son edificios diferentes.
+- Museo Loringiano: edificio original y memoria de la colección; no presentar las piezas originales como si siguieran allí.
+
+LÍNEA NARRATIVA
+
+El tour debe mostrar tres capas:
+
+1. Loring-Heredia: finca de recreo, jardín romántico, arqueología y primeras colecciones.
+2. Echevarría-Echevarrieta: ampliaciones, mirador, avenida de palmeras, cascada y nuevos usos sociales.
+3. Etapa municipal: jardín botánico público, conservación, educación, investigación y biodiversidad.
+
+ROL DE IA 6
+
+Actúa como directora editorial y curadora final de la experiencia.
+
+No redactes todavía el guion completo.
+
+Revisa la tabla maestra, la ruta V0.2 y las fichas VoiceMap V0.1 desde estos puntos de vista:
+
+1. Coherencia narrativa general.
+2. Equilibrio entre historia, botánica y experiencia sensorial.
+3. Repeticiones y exceso de información.
+4. Huecos narrativos importantes.
+5. Puntos que deben ser estaciones, tránsitos o silencios.
+6. Claridad para un visitante extranjero o sin conocimientos botánicos.
+7. Transiciones entre las tres capas históricas.
+8. Potencial comercial del tour premium.
+9. Contenido que debe reservarse para futuros spin-offs.
+10. Riesgo de que la audioguía suene como una lista de datos.
+
+DEVUELVE
+
+- 10 fortalezas del proyecto.
+- 10 problemas editoriales.
+- 10 recomendaciones concretas para V0.3.
+- Una propuesta de hilo narrativo en 6-8 etapas.
+- Una lista de puntos que necesitan más emoción, más rigor o más silencio.
+- Una lista de contenidos que deben eliminarse o reservarse para tours especializados.
+
+No cambies el orden físico sin justificarlo. No inventes datos. No redactes pistas completas todavía.

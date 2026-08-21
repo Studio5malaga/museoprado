@@ -226,9 +226,9 @@ Observa la estructura, las superficies de vidrio y la relación entre el edifici
 
 La Alberca de los Claveles introduce otra forma de contemplar el agua: no como cascada ni como gran lago, sino como un espacio de reposo y cultivo.
 
-Cerca de aquí encontrarás una glicinia de flores blancas, *Wisteria sinensis*. Es diferente de la gran glicinia morada del Cenador histórico, aunque ambas comparten la misma capacidad de convertir una estructura en una arquitectura vegetal.
+Cerca de aquí encontrarás una glicinia de flores blancas, perteneciente a *Wisteria sinensis*. Si la visitas en primavera, podrás verla en flor; el nombre concreto del cultivar blanco queda pendiente de confirmar. Es diferente de la gran glicinia morada del Cenador histórico, aunque ambas comparten la misma capacidad de convertir una estructura en una arquitectura vegetal.
 
-Junto a la fachada del invernadero crece también una *Macfadyena unguis-cati*, conocida como uña de gato y reconocible por sus flores naranjas. Observa cómo las dos trepadoras cambian la superficie de las construcciones: una trabaja con el blanco y la otra con el naranja.
+Junto a la fachada del invernadero crece también una *Macfadyena unguis-cati*, nombre también aceptado en la taxonomía actual como *Dolichandra unguis-cati*, conocida como uña de gato y reconocible por sus flores naranjas. Observa cómo las dos trepadoras cambian la superficie de las construcciones: una trabaja con el blanco y la otra con el naranja.
 
 Quédate unos instantes junto al agua y observa los colores antes de continuar hacia el Paseo de Hibiscos.
 

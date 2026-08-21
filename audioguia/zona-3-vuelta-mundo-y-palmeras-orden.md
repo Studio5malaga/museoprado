@@ -123,14 +123,18 @@ La web institucional del jardín identifica el olivo como *Olea europaea*, proce
 
 ### Antigua Era y cruce de cuatro caminos
 
-La Antigua Era debe ser una estación breve o un tránsito interpretativo. El sendero es bastante escondido, por lo que la dirección debe basarse en:
+El olivo centenario se encuentra en el centro de una glorieta rodeada por un banco o murete corrido de hormigón blanqueado con cal. Entre esta glorieta y la colección de vides hay setos de lavanda y espliego; junto a ellos comienza el sendero hacia la Antigua Era.
+
+Una vez dentro del sendero no hay bifurcaciones que permitan perderse: el recorrido está delimitado y conduce hasta la Era. Después de atravesarla, el sendero continúa igualmente delimitado hasta llegar a la encrucijada de cuatro caminos.
+
+La dirección debe basarse en:
 
 - Referencia visual del sendero.
 - Lado del camino.
 - Elementos cercanos.
 - Confirmación del cruce de cuatro caminos.
 
-No decir simplemente “gira por el sendero escondido”. La instrucción final debe redactarse después de la visita.
+No decir simplemente “gira por el sendero escondido”. Aunque el sendero es fácil de seguir una vez dentro, el punto de entrada debe describirse mediante la glorieta del olivo y los setos de lavanda y espliego.
 
 ## Paseo de Palmeras o de Datileras
 

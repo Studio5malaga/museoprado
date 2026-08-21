@@ -24,20 +24,15 @@ La comunicación “El Jardín Botánico La Concepción: un plató cinematográf
 
 La misma fuente explica que La Concepción se utilizó para representar Cuba, Filipinas, India, Polinesia y otros lugares exóticos.
 
-## Títulos que no deben darse por confirmados todavía
+## Producciones contemporáneas que sí pueden incorporarse
 
-La respuesta de IA incluye títulos y producciones que requieren comprobación individual antes de incorporarlos:
+Además de las películas históricas, existen producciones contemporáneas con respaldo en fuentes de localización o de emisión:
 
-- *Los conquistadores del Pacífico* (1962).
-- *Tabú (Fugitivos de las islas del Sur)* (1965).
-- *Marbella, un golpe de cinco estrellas* (1984).
-- *El puente de San Luis Rey* (2004).
-- *El Ministerio del Tiempo*.
-- *The Crown*.
-- *Jardines con Historia*.
-- Anuncio de Café Saimaza.
+- *El Ministerio del Tiempo*, temporada 3, episodio 8, rodado en La Concepción en 2017 para representar la selva de Yucatán durante la conquista de México. La Málaga Film Office identifica expresamente la localización. [Fuente](https://www.malagafilmoffice.com/en/rodaje/el-ministerio-del-tiempo/)
+- *The Crown*, temporada 4, con escenas de La Concepción utilizadas para representar Adelaida durante la gira de Carlos y Diana por Australia en 1983. La Málaga Film Office documenta el jardín entre las localizaciones. [Fuente](https://www.malagafilmoffice.com/en/2021/11/23/la-ciudad-de-malaga-finalista-a-los-european-film-location-award-con-the-crown/)
+- *Jardines con Historia*, episodio dedicado a Málaga-La Concepción, emitido por RTVE en 2021. [Fuente](https://www.rtve.es/play/videos/jardines-con-historia/episodio-8-malaga-concepcion/5828968/)
 
-Algunos pueden haberse rodado en Málaga o en otros jardines de la ciudad. No se debe atribuir automáticamente un rodaje a La Concepción.
+El anuncio de Café Saimaza aparece mencionado en fuentes periodísticas como rodaje en La Concepción, pero no lo trataremos como confirmación institucional hasta localizar el registro de producción correspondiente.
 
 ## El caso de Los conquistadores del Pacífico
 
@@ -55,13 +50,25 @@ Las películas de las que no conozcamos el punto exacto se presentarán sencilla
 
 No afirmaremos que una película concreta se rodó en la Cascada de Monsteras si no conocemos el punto exacto. La cascada será únicamente el lugar narrativo desde el que se explica la relación entre el jardín y el cine.
 
-## Posible estación
+## Estación propuesta
 
-- Ubicación: Cascada de Piedra, Cascada de Monsteras o entorno del Puente de troncos, según el punto donde se confirme que hubo rodajes.
-- Tipo: estación breve o tránsito.
-- Duración: 1:30–2:00 minutos.
+- Ubicación narrativa: Cascada de Monsteras, sin afirmar que allí se rodó cada título.
+- Tipo: estación breve.
+- Duración: 2–3 minutos.
 - Sonido: pasos, agua y ambiente natural; no añadir efectos de selva ni rugidos.
+- Contenido: algunos títulos históricos, *El Ministerio del Tiempo*, *The Crown* y la leyenda de Tarzán.
 - Valor: explicar cómo el paisaje real puede convertirse en un lugar imaginario mediante el encuadre cinematográfico.
+
+## Selección recomendada para el audio principal
+
+Para no convertir la pista en una filmografía, mencionar solo:
+
+- *Bambú* y *Los últimos de Filipinas*, como ejemplos de los años cuarenta.
+- *Molokai, la isla maldita*, como ejemplo de ambientación tropical.
+- *El Ministerio del Tiempo*, como ejemplo televisivo contemporáneo.
+- *The Crown*, como ejemplo internacional reciente.
+
+El resto de títulos puede aparecer en la descripción escrita o en un futuro contenido adicional.
 
 ## Fuentes
 

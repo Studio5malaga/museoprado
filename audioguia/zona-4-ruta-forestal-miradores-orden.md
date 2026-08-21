@@ -1,8 +1,8 @@
 # ZONA 4 — Ruta Forestal, fauna, miradores y cactus
 ## Orden físico provisional confirmado por el proyecto
 
-**Inicio:** cruce de cuatro caminos al final de la Zona 3.  
-**Sentido inicial:** tomar el camino de la derecha.  
+**Inicio:** encrucijada de cinco caminos al final de la Zona 3.  
+**Sentido inicial:** tomar la pista de tierra identificada como camino 2.  
 **Final:** Avenida de Palmeras de la etapa Echevarría-Echevarrieta, con enlace a la Zona 5.
 
 ## Aviso de accesibilidad
@@ -19,10 +19,18 @@ Esta advertencia debe aparecer en la información previa del tour, no como una a
 
 La Ruta Forestal puede ser transitable en sus distintos tramos, pero eso no significa que el recorrido premium completo sea accesible universalmente.
 
+## Orientación en la encrucijada
+
+Al llegar desde la Antigua Era se encuentran cinco caminos. El camino 5 es el de llegada. El camino 1 conduce a una cancela cerrada junto a la verja del límite del jardín. El camino 2 es la pista de tierra que inicia la Zona 4 y es el que debe tomar el visitante. El camino 3 es de cemento y baja hacia el Acueducto de San Telmo y el gran pino, por lo que devuelve a una zona ya recorrida. El camino 4 conduce de nuevo hacia el olivo centenario.
+
+Indicación provisional:
+
+> Has llegado a una encrucijada de cinco caminos. No tomes el sendero de la cancela ni el camino de cemento que baja hacia el acueducto. Tampoco regreses hacia el olivo. Toma la pista de tierra, identificada como el camino 2.
+
 ## Orden de visita
 
-1. Cruce de cuatro caminos de la Zona 3.
-2. Desvío a la derecha.
+1. Encrucijada de cinco caminos de la Zona 3.
+2. Tomar la pista de tierra, camino 2.
 3. Inicio entre álamos blancos, *Populus alba*.
 4. Presa o embalse superior.
 5. Observatorio de aves.

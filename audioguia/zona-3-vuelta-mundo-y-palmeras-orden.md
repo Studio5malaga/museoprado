@@ -125,7 +125,7 @@ La web institucional del jardín identifica el olivo como *Olea europaea*, proce
 
 El olivo centenario se encuentra en el centro de una glorieta rodeada por un banco o murete corrido de hormigón blanqueado con cal. Entre esta glorieta y la colección de vides hay setos de lavanda y espliego; junto a ellos comienza el sendero hacia la Antigua Era.
 
-Una vez dentro del sendero no hay bifurcaciones que permitan perderse: el recorrido está delimitado y conduce hasta la Era. Después de atravesarla, el sendero continúa igualmente delimitado hasta llegar a la encrucijada de cuatro caminos.
+Una vez dentro del sendero no hay bifurcaciones que permitan perderse: el recorrido está delimitado y conduce hasta la Era en menos de cinco minutos. Después de atravesarla, el sendero de salida tarda menos de tres minutos y continúa delimitado hasta llegar a una encrucijada de cinco caminos.
 
 La dirección debe basarse en:
 
@@ -134,7 +134,7 @@ La dirección debe basarse en:
 - Elementos cercanos.
 - Confirmación del cruce de cuatro caminos.
 
-No decir simplemente “gira por el sendero escondido”. Aunque el sendero es fácil de seguir una vez dentro, el punto de entrada debe describirse mediante la glorieta del olivo y los setos de lavanda y espliego.
+No decir simplemente “gira por el sendero escondido”. Aunque el sendero es fácil de seguir una vez dentro, el punto de entrada debe describirse mediante la glorieta del olivo y los setos de lavanda y espliego. En la encrucijada final hay cinco caminos: el camino 5 es el de llegada; el 1 conduce a una cancela cerrada junto a la verja; el 2 es la pista de tierra que debemos tomar; el 3 es un camino de cemento que baja hacia el Acueducto y el gran pino; y el 4 devuelve al olivo. Desde el cruce, tomar el camino 2.
 
 ## Paseo de Palmeras o de Datileras
 

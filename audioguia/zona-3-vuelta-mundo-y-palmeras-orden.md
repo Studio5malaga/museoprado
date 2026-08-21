@@ -58,10 +58,13 @@ Una única estación exterior para:
 
 Una única estación para:
 
-- Antigua función educativa para hijos de trabajadores y empleados.
-- Biblioteca José Antonio del Cañizo.
+- Antigua función educativa para hijos de las familias que trabajaban en la finca y sus alrededores.
+- La escuela fue mandada construir por Rafael Echevarría a principios del siglo XX.
+- Edificio restaurado y en perfecto estado, según confirmación del proyecto.
+- Actualmente alberga la Biblioteca José Antonio del Cañizo.
 - Horario actualizable: jueves por la mañana; en agosto, cierre por vacaciones.
 - No prometer acceso si la biblioteca está cerrada.
+- Destacar la vidriera colorida de la fachada.
 
 ### Ramal de San Telmo, vivero, pino y algarrobo
 

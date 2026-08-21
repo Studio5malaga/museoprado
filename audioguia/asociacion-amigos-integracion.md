@@ -47,7 +47,7 @@ Debe conectarse con la biblioteca especializada “José Antonio del Cañizo”.
 
 El audio debe distinguir:
 
-- La función histórica de la escuela para hijos de empleados y personas del entorno.
+- La función histórica de la escuela, mandada construir por Rafael Echevarría a principios del siglo XX, para los hijos de las familias que trabajaban en la finca y sus alrededores.
 - La función contemporánea de la biblioteca.
 - La biblioteca abre los jueves por la mañana hasta aproximadamente las 13:00–13:30 y permanece cerrada en agosto por vacaciones; estos datos deben actualizarse antes de publicar.
 

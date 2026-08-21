@@ -32,7 +32,7 @@ Además de las películas históricas, existen producciones contemporáneas con 
 - *The Crown*, temporada 4, con escenas de La Concepción utilizadas para representar Adelaida durante la gira de Carlos y Diana por Australia en 1983. La Málaga Film Office documenta el jardín entre las localizaciones. [Fuente](https://www.malagafilmoffice.com/en/2021/11/23/la-ciudad-de-malaga-finalista-a-los-european-film-location-award-con-the-crown/)
 - *Jardines con Historia*, episodio dedicado a Málaga-La Concepción, emitido por RTVE en 2021. [Fuente](https://www.rtve.es/play/videos/jardines-con-historia/episodio-8-malaga-concepcion/5828968/)
 
-El anuncio de Café Saimaza queda incorporado como rodaje confirmado para este proyecto. Se incluirá como ejemplo publicitario de la transformación de La Concepción en un paisaje de selva tropical.
+El anuncio de una famosa marca de café queda incorporado como rodaje confirmado para este proyecto. Se incluirá como ejemplo publicitario de la transformación de La Concepción en un paisaje de selva tropical.
 
 ## El caso de Los conquistadores del Pacífico
 
@@ -67,7 +67,7 @@ Para no convertir la pista en una filmografía, mencionar solo:
 - *Molokai, la isla maldita*, como ejemplo de ambientación tropical.
 - *El Ministerio del Tiempo*, como ejemplo televisivo contemporáneo.
 - *The Crown*, como ejemplo internacional reciente.
-- El anuncio de Café Saimaza, como ejemplo del uso publicitario del jardín para recrear una selva tropical.
+- El anuncio de una famosa marca de café, como ejemplo del uso publicitario del jardín para recrear una selva tropical.
 
 El resto de títulos puede aparecer en la descripción escrita o en un futuro contenido adicional.
 

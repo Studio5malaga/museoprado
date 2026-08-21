@@ -4,7 +4,7 @@
 
 Actuación promovida por la Asociación de Amigos, frente al Jardín de los Sentidos y junto al lago inferior. El laberinto tiene forma cuadrada, casi 1.000 m², aproximadamente 450 m de pared y cinco corredores de escasa dificultad. Las plantas se dejaron crecer durante dos años para conseguir una estructura frondosa.
 
-La figura del Minotauro se inaugurará en otoño de 2026. Esta pista está diseñada para la versión posterior a esa inauguración.
+La figura del Minotauro ya está instalada y forma parte de la actuación más reciente del jardín.
 
 ## Función en el tour
 

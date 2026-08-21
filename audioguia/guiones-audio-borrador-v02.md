@@ -164,7 +164,7 @@ Frente al Jardín de los Sentidos y junto al lago inferior encontrarás un laber
 
 Tiene forma cuadrada, ocupa casi mil metros cuadrados y sus paredes vegetales se extienden aproximadamente a lo largo de cuatrocientos cincuenta metros. Para llegar al núcleo se recorren cinco corredores de escasa dificultad. Las buganvillas, bignonias, jazmines y celestinas convierten una estructura geométrica en una arquitectura viva.
 
-En el centro está prevista una figura del Minotauro, cuya inauguración está programada para otoño de 2026. Si realizas la visita después de esa fecha, podrás contemplarla ya instalada; comprueba siempre el estado actual de la actuación. En la mitología griega, el Minotauro habitaba el Laberinto de Creta, construido por Dédalo para el rey Minos. Teseo logró entrar y encontrar la salida gracias al hilo que le entregó Ariadna.
+En el centro en el centro encontrarás una figura del Minotauro, la incorporación más reciente del jardín. En la mitología griega, el Minotauro habitaba el Laberinto de Creta, construido por Dédalo para el rey Minos. Teseo logró entrar y encontrar la salida gracias al hilo que le entregó Ariadna.
 
 Aquí el mito cambia de escala. Ya no habla de miedo ni de encierro, sino de juego, orientación y descubrimiento. Puedes recorrer los corredores, escuchar cómo cambia el sonido de tus pasos y observar cómo las plantas construyen paredes que respiran y se mueven con el viento.
 

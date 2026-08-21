@@ -35,9 +35,11 @@
 Debe incluir:
 
 - Antiguas dependencias de servicio.
-- Sala de exposiciones, si está abierta.
+- Sala de exposiciones de pintura y fotografía, visitable prácticamente durante todo el año salvo durante los cambios de exposición.
+- Cartel en la entrada que anuncia la exposición vigente.
 - Diferencia entre espacios de administración y espacios visitables.
 - Conexión con Casa de los Cipreses y Antigua Escuela.
+- La sala mantiene el mismo horario general del jardín; comprobar siempre la exposición y el acceso del día.
 
 ### Casa de los Cipreses y Asociación
 

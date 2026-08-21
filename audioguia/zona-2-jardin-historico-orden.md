@@ -19,7 +19,7 @@
 11. Cascada de Rafael Echevarría.
 12. Ría de la Ninfa.
 13. Escultura de la Ninfa.
-14. Árbol o ejemplar próximo a la Ría cuya fructificación puede provocar el cierre temporal de la zona — nombre pendiente.
+14. Araucaria de Bunya o Araucaria de Bidwill, *Araucaria bidwillii*, cuyos grandes conos pueden provocar el cierre temporal de la zona.
 15. Puente de troncos.
 16. Cascada de Monsteras, visible a la izquierda al cruzar el puente desde la Fuente/Ría de la Ninfa.
 17. Gran Araucaria.
@@ -128,10 +128,18 @@ La referencia a películas puede ser una estación breve junto a la cascada o un
 - Cenador: contemplación de estructura y glicinia.
 - Patio de la Casa-Palacio: observación de la fuente y arquitectura.
 
+## Araucaria de Bunya y advertencia estacional
+
+El árbol próximo a la Ría es una Araucaria de Bunya o Araucaria de Bidwill, *Araucaria bidwillii*, originaria del este de Australia. Produce conos femeninos muy grandes y pesados, con escamas puntiagudas, que pueden caer desde gran altura. Por seguridad, el área puede cerrarse durante el periodo de caída o manejo de los conos, según la climatología y las indicaciones del jardín.
+
+En el audio no se debe decir que la piña es “como una cuchilla de afeitar”: el riesgo principal es el peso, el tamaño, las puntas y la caída desde altura. Tampoco se deben dar cifras de peso sin una fuente botánica sólida. La advertencia debe ser clara: no situarse bajo el árbol ni tocar conos caídos.
+
+La *Araucaria bidwillii* no debe confundirse con la *Araucaria heterophylla* de la estación de la Gran Araucaria.
+
 ## Datos pendientes de campo
 
 - Orden real entre Puente peatonal, Kiosco, González-Andreu y Ría.
-- Nombre del árbol/fruto/piña peligroso.
+- Fecha exacta y señalización del cierre preventivo por conos de la *Araucaria bidwillii*.
 - Denominación exacta de la cascada junto a la Ría.
 - Autoría y material de la escultura de la Ninfa.
 - Posición segura para observar ardillas sin prometer avistamientos.

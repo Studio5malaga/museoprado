@@ -34,8 +34,10 @@
 
 Debe incluir:
 
-- Antiguas dependencias de servicio.
-- Sala de exposiciones de pintura y fotografía, visitable prácticamente durante todo el año salvo durante los cambios de exposición.
+- Edificio de estilo suizo construido a finales del siglo XIX.
+- Vivienda para trabajadores de la hacienda y espacio para animales de tiro y calesas.
+- Durante la etapa Echevarría vivió aquí el administrador Antonio Román.
+- Actualmente alberga laboratorios de investigación, biblioteca técnica, archivo histórico y sala de exposiciones de pintura y fotografía; la sala es visitable prácticamente durante todo el año salvo durante los cambios de exposición.
 - Cartel en la entrada que anuncia la exposición vigente.
 - Diferencia entre espacios de administración y espacios visitables.
 - Conexión con Casa de los Cipreses y Antigua Escuela.
@@ -43,9 +45,11 @@ Debe incluir:
 
 ### Casa de los Cipreses y Asociación
 
-Una única estación para:
+La Casa de los Cipreses no es visitable por dentro. Actualmente funciona como sede y oficina interna de la Asociación de Amigos. En la entrada hay un cartel identificativo y una fotografía histórica donde se aprecia la alineación de cipreses que da nombre al lugar. Algunos ejemplares originales siguen vivos; otros murieron en tormentas recientes y han sido sustituidos por ejemplares jóvenes.
 
-- Sede de la Asociación de Amigos.
+Una única estación exterior para:
+
+- Sede y oficina interna de la Asociación de Amigos, sin acceso interior para visitantes.
 - Actividades culturales, botánicas, artísticas y ornitológicas.
 - Relación con Patronato, jardineros y personal técnico.
 - Biblioteca y memoria del jardín.

@@ -16,7 +16,7 @@
 8. Algarrobo autóctono próximo al pino.
 9. Gran pino y banco de descanso bajo su copa.
 10. Escaleras hacia el Mapa Mural de los Continentes.
-11. Paseo de las Datileras, antiguo acceso de carros y carruajes.
+11. Paseo de Palmeras o de Datileras, antiguo acceso de carros y carruajes.
 12. Paseo central de palmeras / palmera datilera de ocho brazos.
 13. Colección de Vides Malagueñas.
 14. Olivo monumental.
@@ -131,6 +131,14 @@ La Antigua Era debe ser una estación breve o un tránsito interpretativo. El se
 - Confirmación del cruce de cuatro caminos.
 
 No decir simplemente “gira por el sendero escondido”. La instrucción final debe redactarse después de la visita.
+
+## Paseo de Palmeras o de Datileras
+
+El cartel del jardín identifica este paseo como el camino por el que llegaban los visitantes en carruaje desde Málaga. Es un camino de tierra en el que se alternan palmeras datileras y palmitos elevados. Según el mismo cartel, al coincidir con el lecho seco del Guadalmedina se regaba durante el verano para evitar que levantara polvo al paso de los carruajes. El cartel atribuye a Cánovas del Castillo la frase: “El Guadalmedina es el único río que hay que regar en verano”.
+
+Las fotografías históricas expuestas sirven para mostrar el uso del paseo y su aspecto arbolado. No identificar a las personas retratadas ni fechar las imágenes más allá de lo que indiquen sus pies de foto.
+
+Este paseo no debe confundirse con la Avenida de Palmeras de la etapa Echevarría-Echevarrieta.
 
 ## Recorrido de la Vuelta al Mundo en 80 Árboles
 

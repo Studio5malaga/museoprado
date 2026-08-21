@@ -36,6 +36,12 @@
 27. Taquilla y salida.
 28. Aseos y cafetería.
 
+## Paseo de Palmeras o de Datileras
+
+El cartel del jardín explica que este camino de tierra recibía a los visitantes que llegaban en carruaje desde Málaga. Alterna palmeras datileras y palmitos elevados. Según el cartel, durante el verano se regaba porque ocupaba el lecho seco del Guadalmedina y así se evitaba el polvo. También recoge una frase atribuida a Cánovas del Castillo sobre la necesidad de regar el Guadalmedina en verano.
+
+Debe diferenciarse de la Avenida de Palmeras de Echevarría-Echevarrieta.
+
 ## Estructura narrativa
 
 ### Estanque y Pandano

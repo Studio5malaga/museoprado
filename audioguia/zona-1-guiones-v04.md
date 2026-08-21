@@ -228,7 +228,7 @@ La Alberca de los Claveles introduce otra forma de contemplar el agua: no como c
 
 Cerca de aquí encontrarás una glicinia de flores blancas, *Wisteria sinensis*. Es diferente de la gran glicinia morada del Cenador histórico, aunque ambas comparten la misma capacidad de convertir una estructura en una arquitectura vegetal.
 
-Junto a la fachada del invernadero crece también una *Macfadyena unguis-cati*, reconocible por sus flores naranjas. Observa cómo las dos trepadoras cambian la superficie de las construcciones: una trabaja con el blanco y la otra con el naranja.
+Junto a la fachada del invernadero crece también una *Macfadyena unguis-cati*, conocida como uña de gato y reconocible por sus flores naranjas. Observa cómo las dos trepadoras cambian la superficie de las construcciones: una trabaja con el blanco y la otra con el naranja.
 
 Quédate unos instantes junto al agua y observa los colores antes de continuar hacia el Paseo de Hibiscos.
 
@@ -247,7 +247,7 @@ Quédate unos instantes junto al agua y observa los colores antes de continuar h
 
 ## Texto provisional
 
-El Paseo de Hibiscos cambia de nuevo la paleta del jardín. Según la época del año, los pacíficos pueden llenar el camino de flores rojas, rosadas, amarillas o blancas. No todas las visitas ofrecen el mismo espectáculo: esa es una de las formas en que el jardín recuerda que está vivo.
+El Paseo de Hibiscos cambia de nuevo la paleta del jardín. Según la época del año, los hibiscos pueden llenar el camino de flores rojas, rosadas, amarillas o blancas. No todas las visitas ofrecen el mismo espectáculo: esa es una de las formas en que el jardín recuerda que está vivo.
 
 Después llegarás al bosque de bambú negro. Los tallos oscurecen el paisaje, la luz queda fragmentada y el sonido del viento adquiere una textura hueca.
 

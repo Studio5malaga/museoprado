@@ -17,8 +17,8 @@
 9. Jardín de González-Andreu.
 10. Bosquete de cipreses.
 11. Cascada de Rafael Echevarría.
-12. Ría de la Ninfa.
-13. Escultura de la Ninfa.
+12. Ría de la Ninfa, alimentada por la cascada.
+13. Fuente de la Ninfa o Escultura de la Ninfa.
 14. Araucaria de Bunya o Araucaria de Bidwill, *Araucaria bidwillii*, cuyos grandes conos pueden provocar el cierre temporal de la zona.
 15. Puente de troncos.
 16. Cascada de Monsteras, visible a la izquierda al cruzar el puente desde la Fuente/Ría de la Ninfa.
@@ -79,7 +79,17 @@ No identificarlo por intuición. Debe comprobarse:
 
 Hasta conocer el nombre, no incluirlo en narración.
 
-### Cascada de Monsteras y estanque de Monsteras
+### Fuente de la Ninfa y Ría de la Ninfa
+
+La escultura de piedra se encuentra en el extremo de la Ría de la Ninfa. Representa a una mujer desnuda sentada sobre una roca, en actitud pensativa, sosteniendo un cántaro del que mana el agua. La Ría recibe también el agua que cae de la Cascada de Rafael Echevarría.
+
+La autoría corresponde a Valentín Dueñas (1888–1952), con fecha de colocación o realización indicada en 1915. La atribución tradicional a Paco Durrio debe presentarse como una atribución antigua corregida por investigaciones y registros recientes del propio jardín.
+
+Redacción segura:
+
+> En el extremo de la Ría se encuentra la Fuente de la Ninfa, una escultura de piedra realizada por Valentín Dueñas y fechada en 1915. El agua brota del cántaro que sostiene la figura y continúa por la ría, alimentada también por la cascada de Rafael Echevarría. Durante un tiempo se atribuyó a Paco Durrio, probablemente por la relación de este artista con la familia Echevarría-Echevarrieta, pero los registros recientes del jardín atribuyen la obra a Valentín Dueñas.
+
+## Cascada de Monsteras y estanque de Monsteras
 
 La Cascada de Monsteras se encuentra justo después de cruzar el Puente de troncos desde la zona de la Fuente/Ría de la Ninfa; al mirar a la izquierda se hace visible la caída de agua.
 

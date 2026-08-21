@@ -177,6 +177,7 @@ Puntos de contemplación previstos:
 - Especie exacta del gran pino.
 - Diámetro real y método de estimación de edad.
 - Presencia de procesionaria, avisos activos y condiciones para utilizar el banco.
+- Documentar como punto de contemplación la zona del Acueducto, el Mirador de los Pinos, el Olivo y la Era.
 - Identificación y edad del algarrobo.
 - Ubicación exacta de las escaleras.
 - Posición del mapa mural.

@@ -31,7 +31,8 @@ Indicación provisional:
 
 1. Encrucijada de cinco caminos de la Zona 3.
 2. Tomar la pista de tierra, camino 2.
-3. Inicio entre álamos blancos, *Populus alba*.
+3. Ascenso de aproximadamente 4–5 minutos entre álamos blancos.
+4. Inicio entre álamos blancos, *Populus alba*.
 4. Presa o embalse superior.
 5. Observatorio de aves.
 6. Regreso aproximado de 5–10 metros por el camino anterior.
@@ -70,6 +71,10 @@ La presa o embalse superior debe relacionarse con el sistema cerrado de circulac
 - La infraestructura permite reutilizar el agua.
 
 La explicación debe darse en un punto donde la voz sea inteligible y después dejar que el visitante observe la estructura.
+
+### Llegada a la presa
+
+Desde la encrucijada de cinco caminos se toma la pista de tierra, camino 2. El camino es inequívoco y asciende entre álamos blancos hasta la presa en aproximadamente 4–5 minutos, según el ritmo del visitante.
 
 ### Presa, embalse y aves acuáticas
 

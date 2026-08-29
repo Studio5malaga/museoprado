@@ -50,7 +50,7 @@ La colección de plantas primitivas cuenta con un panel explicativo y varias zon
 
 ### 5. Estanques de piedra, *Victoria cruziana* y flor de loto
 
-Los estanques de *Victoria cruziana* y de flor de loto se encuentran juntos, pegados a la zona de Plantas Primitivas. En el camino del fondo de esta zona de estanques, tomando el lado izquierdo, se accede al bosque de bambúes gigantes.
+Los estanques de *Victoria cruziana* y de flor de loto se encuentran juntos, pegados a la zona de Plantas Primitivas. En el camino del fondo de esta zona de estanques, tomando el lado izquierdo, se accede a una pista de tierra que sube hacia el bosque de bambúes gigantes. El bosque se divisa claramente desde allí. Después de visitarlo, se baja por el mismo tramo corto y se toma el camino de la izquierda, junto a la zona de mesas de picnic, hasta llegar a la Casita del Jardinero.
 
 
 

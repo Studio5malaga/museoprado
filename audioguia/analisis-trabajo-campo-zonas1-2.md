@@ -16,7 +16,7 @@ Las horas registradas no siguen el orden numérico de las zonas: varios puntos Z
 - Insectívoras/mirmecófitas: pueden tratarse desde el exterior, junto a cafetería y aseos; 20 m libres.
 - Plantas primitivas: parada lateral izquierda, 6 m libres; panel explicativo y puntos de observación delante, centro y detrás. Caseta blanca oculta con calentador del agua de los estanques de *Victoria cruziana*, justo al lado; no visitable.
 - Estanques de piedra y *Victoria cruziana*: césped, sol directo y 6 m libres.
-- Bambúes gigantes: rampa, sombra total y 6 m libres.
+- Bambúes gigantes: rampa, sombra total y 6 m libres; no tienen referencia numérica propia en el plano.
 - Casita del Jardinero: 10 m libres, exterior y sombra total.
 - Estufas: tierra compactada, 6 m libres y posible ruido de carretera exterior.
 - Alberca/glicinia blanca: 6 m libres, pero con escalones y sin alternativa accesible registrada.

@@ -104,7 +104,7 @@ Repetir solo estas mediciones:
 - Se baja por la parte izquierda de las mismas escaleras hacia el Paseo de Hibiscos, mapa 31.
 - El rosal de pitiminí aporta un recurso olfativo destacable.
 - Girando a la derecha desde Hibiscos se llega a la Huerta de Cítricos, mapa 33, con mesas, limoneros antiguos y paneles sobre la etiqueta comercial histórica de los limones.
-- Desde la Huerta se accede al Bosque de Bambú Negro, mapa 34, y al final se regresa a la zona de picnic junto a la Casita del Jardinero.
+- Desde la Huerta se accede al Bosque de Bambú Negro, mapa 34. El sendero interior es lineal y sale a la zona de picnic junto a la Casita del Jardinero; desde allí se gira a la izquierda hacia la Rocalla Mediterránea, mapa 39, con la cafetería visible, y se continúa hacia la entrada.
 
 
 ## Fotografías adicionales del tramo final de Zona 1

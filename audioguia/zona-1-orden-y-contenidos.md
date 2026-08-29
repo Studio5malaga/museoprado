@@ -21,7 +21,12 @@
 13. *Macfadyena unguis-cati*, de flores naranjas, cubriendo la fachada del invernadero adyacente.
 14. Paseo de Hibiscos.
 15. Bosque de bambú negro.
-16. Regreso a la entrada, cafetería y aseos.
+16. Sendero lineal de salida del bambusal.
+17. Zona de picnic junto a la Casita del Jardinero.
+18. Giro a la izquierda hacia la Rocalla Mediterránea.
+19. Rocalla Mediterránea, mapa 39.
+20. Cafetería visible desde la rocalla.
+21. Regreso a la entrada y zona de picnic de inicio.
 
 ## Hilo narrativo
 
@@ -155,7 +160,7 @@ Junto a la Alberca de los Claveles, mapa 32, hay otro invernadero histórico de 
 
 Desde el invernadero de cristal se suben las escaleras pegadas a él hasta la Alberca. Una vez vista la alberca y el invernadero superior, se bajan las mismas escaleras por la parte izquierda hacia el Paseo de los Hibiscos, mapa 31.
 
-En el Paseo de los Hibiscos se encuentra un rosal de pitiminí de aroma especialmente agradable. Tomando el camino de la derecha se llega a la Huerta de Cítricos, mapa 33, con mesas de descanso, limoneros antiguos y paneles que muestran la etiqueta original de los limones comercializados en la finca. Desde allí se aprecia el Bosque de Bambú Negro, mapa 34; su sendero permite adentrarse en la masa de bambúes y escuchar el crujido de las cañas con el viento. Al final se regresa a la misma zona de picnic próxima a la Casita del Jardinero.
+En el Paseo de los Hibiscos se encuentra un rosal de pitiminí de aroma especialmente agradable. Tomando el camino de la derecha se llega a la Huerta de Cítricos, mapa 33, con mesas de descanso, limoneros antiguos y paneles que muestran la etiqueta original de los limones comercializados en la finca. Desde allí se aprecia el Bosque de Bambú Negro, mapa 34; su sendero permite adentrarse en la masa de bambúes y escuchar el crujido de las cañas con el viento. El sendero continúa de forma lineal hasta salir a la zona de picnic próxima a la Casita del Jardinero. Desde allí se gira a la izquierda hacia la Rocalla Mediterránea, mapa 39; la cafetería se ve desde esa zona y el recorrido continúa hacia la entrada para iniciar la Zona 2.
 
 
 ## Referencias fotográficas de campo — tramo final
@@ -173,3 +178,8 @@ El álbum de fotografías aportado el 26 de agosto documenta el tramo formado po
 - Regreso a la zona de picnic próxima a la Casita del Jardinero.
 
 Estas fotografías se utilizarán como referencias visuales para las instrucciones de orientación y para decidir dónde terminan las pistas de Hibiscos y Bambú Negro.
+
+
+## Corrección del tramo final
+
+El sendero interior del Bosque de Bambú Negro no es de ida y vuelta: es lineal. Al salir se llega a la zona de picnic de la Casita del Jardinero. Desde allí se gira a la izquierda hacia la Rocalla Mediterránea, mapa 39. La cafetería es visible desde la rocalla y desde allí se continúa hacia la entrada y la siguiente zona.

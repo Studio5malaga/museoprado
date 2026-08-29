@@ -46,7 +46,7 @@ Presentar cicas, zamiáceas, ginkgo y otras plantas primitivas como linajes anti
 
 ### 4. Plantas primitivas y caseta técnica
 
-La colección de plantas primitivas cuenta con un panel explicativo y varias zonas de observación —delante, en el centro y detrás del hito—. En esta zona se encuentra también una pequeña caseta blanca, parcialmente escondida entre la vegetación, donde está el calentador del agua del siguiente estanque, relacionado con la glicinia. Es una referencia importante para explicar que la belleza visible del jardín depende de infraestructuras técnicas discretas. La caseta no debe presentarse como visitable ni invitar a acercarse si el acceso está restringido.
+La colección de plantas primitivas cuenta con un panel explicativo y varias zonas de observación —delante, en el centro y detrás del hito—. En esta zona se encuentra también una pequeña caseta blanca, parcialmente escondida entre la vegetación, donde está el calentador del agua de los estanques de *Victoria cruziana* y de la flor de loto. Es una referencia importante para explicar que la belleza visible del jardín depende de infraestructuras técnicas discretas. La caseta no debe presentarse como visitable ni invitar a acercarse si el acceso está restringido.
 
 ### 5. Estanques de piedra y *Victoria cruziana*
 

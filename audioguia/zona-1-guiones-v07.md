@@ -134,7 +134,7 @@ Lo extraordinario no es solo el tamaño de sus hojas, que pueden superar el metr
 
 Llegar hasta aquí requirió un proceso de aclimatación progresivo. El personal del jardín reprodujo la planta y la fue acostumbrando poco a poco a condiciones cada vez más parecidas a las del exterior: primero en una cámara de cultivo, después en un acuario adaptado y más tarde dentro del invernadero.
 
-El estanque se prepara para mantener el agua alrededor de los 25 grados, una temperatura semejante a la de los ríos sudamericanos de los que procede. El sistema de calentamiento permanece oculto, junto al *Ginkgo biloba*.
+Estos estanques se preparan para mantener el agua alrededor de los 25 grados, una temperatura semejante a la de los ríos sudamericanos de los que procede. El sistema de calentamiento permanece oculto, junto al *Ginkgo biloba*, y sirve para mantener las condiciones adecuadas de los estanques de *Victoria cruziana* y de la flor de loto.
 
 Cuando llega el frío del invierno, la planta se retira y pasa la temporada protegida en un invernadero. Cuando regresan las temperaturas cálidas, vuelve al estanque. No existe un calendario rígido: el momento depende de la climatología de cada año.
 

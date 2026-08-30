@@ -74,3 +74,17 @@ No es necesario identificar todas las especies. Se puede hablar de:
 - Confirmación de que el canal corresponde al antiguo ramal de San Telmo.
 - Fecha, procedencia y personas de la fotografía histórica.
 - Nivel de seguridad y espacio de escucha junto a la cascada.
+
+
+## Árboles identificados en la Cascada de Piedra
+
+Las fotografías de campo muestran dos carteles botánicos del entorno:
+
+- ***Ficus macrophylla* Desf. ex Pers.**, familia Moraceae, ficus de hoja de magnolio, originario de Australia. Sus raíces y troncos forman parte de la vegetación que integra la cascada con la arboleda.
+- ***Cupressus lusitanica* Mill.**, familia Cupressaceae, ciprés de México, procedente de Centroamérica.
+
+Estos nombres permiten sustituir la descripción genérica de “ficus y árboles mezclados” por una observación botánica concreta, sin pretender identificar toda la vegetación del rincón.
+
+Texto provisional para el audio:
+
+> La cascada está integrada entre árboles de procedencias muy distintas. Entre ellos puedes identificar un *Ficus macrophylla*, el ficus de hoja de magnolio, originario de Australia, cuyas raíces y troncos contribuyen a crear este aspecto de jungla. También aparece un *Cupressus lusitanica*, el ciprés de México, procedente de Centroamérica. Dos árboles de continentes diferentes conviven aquí con el agua, las lianas y la vegetación de sombra.

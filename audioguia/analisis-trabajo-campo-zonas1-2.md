@@ -130,3 +130,8 @@ El punto corresponde al número 6 del mapa general, donde aparece denominado “
 ## Trabajo de campo adicional — Z2-04 Teatrillo y busto
 
 El punto corresponde al número 7 del mapa general. Tras cruzar el Puente Carretero se toma el sendero de la izquierda. El Teatrillo y el busto de Amalia Heredia están en el mismo conjunto y cuentan con dos paneles informativos. Hay fotografías históricas remasterizadas y coloreadas de las representaciones teatrales. Desde este punto aumenta notablemente la complejidad de los caminos, por lo que el mapa dibujado con el trayecto marcado debe utilizarse como apoyo de navegación.
+
+
+## Trabajo de campo adicional — Z2-06 Fuente del Tritón
+
+La Fuente del Tritón no tiene número visible en el mapa general. Cuenta con una pequeña referencia H8 en un cartel clavado en la zona, correspondiente a la guía de rutas de la Asociación de Amigos. Está junto a la gran escalinata de la Casa-Palacio; no se sube todavía. Desde la fuente se toma el sendero de la izquierda, que baja hacia el Puente Peatonal.

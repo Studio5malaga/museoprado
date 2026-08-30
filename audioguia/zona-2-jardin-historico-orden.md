@@ -217,3 +217,17 @@ En VoiceMap conviene incluir:
 - Una pista de transición con el siguiente hito claramente nombrado.
 - Una advertencia de que existen varios caminos y que el visitante debe comprobar la dirección antes de avanzar.
 - Una alternativa de recuperación si toma un sendero equivocado.
+
+
+## Trabajo de campo — Fuente del Tritón
+
+- **Mapa general:** sin número de referencia visible.
+- **Guía de rutas de la Asociación:** H8.
+- **Señalización local:** pequeño cartel clavado en la zona con la referencia H8.
+- **Ubicación:** junto a la gran escalinata de subida a la Casa-Palacio.
+- **Orientación:** todavía no se sube la escalinata. Desde la fuente se toma el sendero de la izquierda, que baja hacia el Puente Peatonal.
+- **Referencia previa:** es un hito de camino hacia la Casa-Palacio, pero debe tratarse como punto propio porque la escalinata no es la continuación inmediata del recorrido.
+
+Indicación provisional:
+
+> Has llegado a la Fuente del Tritón, identificada como H8 en la guía de rutas de la Asociación. La gran escalinata que ves conduce hacia la Casa-Palacio, pero todavía no vamos a subirla. Desde la fuente, toma el sendero de la izquierda, que desciende hacia el Puente Peatonal.

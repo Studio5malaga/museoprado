@@ -334,3 +334,16 @@ Tratamiento narrativo:
 > Fíjate también en el hierro de la casa: columnas, barandillas y escaleras conservan marcas relacionadas con la fábrica siderúrgica de los Heredia. La industria que impulsó la riqueza de la familia también dejó aquí su huella material.
 
 Las fotografías del proyecto quedan asociadas al panel del Cenador y a las marcas de fabricación de la Casa-Palacio.
+
+
+## Trabajo de campo — referencias y final de la Zona 2
+
+- **Casa-Palacio:** referencia del mapa original anotada como “N1” por el proyecto; revisar la grafía exacta del mapa.
+- **Guía de la Asociación:** H7.
+- **Ruido ambiental:** según la hora y las condiciones meteorológicas, el sonido de la carretera/autovía exterior puede ser evidente y constante o quedar muy atenuado. La mezcla de audio no debe depender del silencio absoluto.
+- **Cenador:** existe una fotografía histórica remasterizada y coloreada en la que aparecen los propietarios comiendo y haciendo vida en el cenador. Es una evidencia visual del uso cotidiano del espacio.
+- **Final de la Zona 2:** desde la parte trasera de la Casa-Palacio se llega a los aseos; en el lateral del palacio se encuentra el acceso a la antigua pista de tenis. Se baja por unas escaleras hasta el llano de la pista. Allí termina la Zona 2 y comienza la unión hacia la Zona 3.
+
+Indicación provisional de transición:
+
+> Después de visitar el patio y los espacios interiores de la Casa-Palacio, continúa hacia su parte trasera. Allí encontrarás los aseos. En el lateral del edificio localiza las escaleras que descienden hasta el llano de la antigua pista de tenis. Ese será el punto de salida del Jardín Histórico y el enlace con la siguiente zona del recorrido.

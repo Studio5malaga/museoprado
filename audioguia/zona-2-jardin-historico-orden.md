@@ -258,3 +258,18 @@ Indicación provisional:
 Indicación provisional:
 
 > Después de subir los escalones llegarás al Kiosco Oriental, identificado como H10 en la guía de la Asociación. Reconócelo por su estructura de hierro y por el árbol conocido como pata de elefante que crece junto a él. Desde esta pérgola, baja hacia el Jardín de González-Andreu por el camino paralelo al sendero principal; podrás ver ese camino abajo, a tu izquierda.
+
+
+## Trabajo de campo — Jardín de González-Andreu H11-H12
+
+- **Mapa general:** 14.
+- **Guía de la Asociación:** H11 y H12.
+- **Característica:** espacio de gran sombra.
+- **Continuación:** seguir en línea recta hasta la parte trasera del Museo Loringiano, sin visitarlo todavía. Allí girar a la derecha hacia el Bosquete de Cipreses, H13.
+- **Cambio de sentido:** desde el bosquete se toma el sendero superior, paralelo al sendero del Jardín de González-Andreu.
+- **Referencia visual:** estanque alargado conocido como la Ría de la Ninfa.
+- **Siguiente hito:** extremo de la Ría y Fuente/Escultura de la Ninfa.
+
+Indicación provisional:
+
+> Desde el Kiosco Oriental baja hacia el Jardín de González-Andreu y continúa en línea recta por esta zona de sombra. Llegarás a la parte trasera del Museo Loringiano, pero todavía no vamos a visitarlo. Allí gira a la derecha hacia el Bosquete de Cipreses. Desde el bosquete toma el sendero superior, que discurre en paralelo al camino por el que acabas de pasar. El estanque alargado que verás junto a este tramo es la Ría de la Ninfa; síguelo hasta llegar a su extremo.

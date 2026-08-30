@@ -1,4 +1,8 @@
 # ZONA 1 — Entrada y colecciones botánicas bajas
+
+## Aviso práctico de entrada
+
+Antes de comenzar conviene recomendar el uso de repelente para mosquitos e insectos. La abundante vegetación, la sombra y la humedad de muchas zonas favorecen la presencia de insectos, y una visita prolongada puede provocar picaduras. Este aviso debe aparecer en la información previa del tour y en la bienvenida, sin exageraciones ni afirmaciones sanitarias no verificadas.
 ## Orden físico provisional confirmado por el proyecto
 
 **Función:** primer bucle del tour, con salida y regreso a la zona de entrada/cafetería/servicios.  

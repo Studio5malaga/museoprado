@@ -145,3 +145,8 @@ El Puente Peatonal no tiene número visible en el mapa general y corresponde a H
 ## Trabajo de campo adicional — Z2-08 Kiosco Oriental
 
 El Kiosco/Templete Oriental no tiene número en el mapa general y corresponde a H10 en la guía de la Asociación. Está junto a una *Beaucarnea recurvata*. Se accede desde el Puente Peatonal subiendo a la derecha, tomando después el sendero de la izquierda junto a una pequeña cascada y subiendo escalones. Desde el kiosco se baja hacia González-Andreu por un camino paralelo al principal, visible abajo a la izquierda.
+
+
+## Trabajo de campo adicional — Z2-09 Jardín de González-Andreu
+
+El Jardín de González-Andreu corresponde al punto 14 del mapa general y a H11-H12 en la guía de la Asociación. Es una zona de gran sombra. Desde allí se sigue en línea recta hasta la parte trasera del Museo Loringiano, que todavía no se visita; se gira a la derecha hacia el Bosquete de Cipreses (H13). Desde el bosquete se cambia de sentido por el sendero superior, paralelo al sendero de González-Andreu, tomando como referencia el estanque alargado de la Ría de la Ninfa.

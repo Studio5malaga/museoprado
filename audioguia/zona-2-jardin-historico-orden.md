@@ -273,3 +273,18 @@ Indicación provisional:
 Indicación provisional:
 
 > Desde el Kiosco Oriental baja hacia el Jardín de González-Andreu y continúa en línea recta por esta zona de sombra. Llegarás a la parte trasera del Museo Loringiano, pero todavía no vamos a visitarlo. Allí gira a la derecha hacia el Bosquete de Cipreses. Desde el bosquete toma el sendero superior, que discurre en paralelo al camino por el que acabas de pasar. El estanque alargado que verás junto a este tramo es la Ría de la Ninfa; síguelo hasta llegar a su extremo.
+
+
+## Trabajo de campo — Bosquete, Ría y Fuente de la Ninfa
+
+- **Mapa general:** Bosquete/entorno de la Ruta H con referencias 13 y 12.
+- **Guía de la Asociación:** H13 y H14.
+- **Material visual:** álbum completo de fotografías del Bosquete de Cipreses, la Ría, la cascada y los avisos de seguridad.
+- **Punto de audio:** los elementos quedan integrados en una estación junto a la estatua de la Ninfa, al final de la Ría.
+- **Advertencia:** bajo la Araucaria de Bunya, situada bajo la Cascada de Rafael Echevarría, existe un aviso de no pasar durante el periodo de riesgo por sus conos/frutos cortantes y pesados.
+
+Secuencia de narración:
+
+> Bosquete de Cipreses → Cascada de Rafael Echevarría → Ría de la Ninfa → aviso del árbol peligroso → Fuente/Escultura de la Ninfa.
+
+No se creará un audio separado para cada número del mapa: el punto 13 y el punto 12 quedarán integrados en una estación narrativa con la estatua de la Ninfa como destino final.

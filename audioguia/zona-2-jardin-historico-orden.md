@@ -288,3 +288,19 @@ Secuencia de narración:
 > Bosquete de Cipreses → Cascada de Rafael Echevarría → Ría de la Ninfa → aviso del árbol peligroso → Fuente/Escultura de la Ninfa.
 
 No se creará un audio separado para cada número del mapa: el punto 13 y el punto 12 quedarán integrados en una estación narrativa con la estatua de la Ninfa como destino final.
+
+
+## Trabajo de campo — Cascada de las Monsteras y Puente de Troncos
+
+- **Mapa general:** Cascada de las Mosteras, número 10.
+- **Guía de la Asociación:** Puente de Troncos, H15.
+- **Relación:** ambos nombres corresponden al mismo lugar. El mapa general destaca la cascada; la guía de la Asociación destaca el puente que hay que cruzar para contemplarla.
+- **Acceso:** desde la Fuente/Escultura de la Ninfa se continúa por el mismo sendero en línea recta.
+- **Continuación:** se cruza el puente y aparece el gran ejemplar de la Gran Araucaria.
+- **Fotografía:** se incorpora una imagen histórica de la Gran Araucaria para comparar su evolución.
+
+Indicación provisional:
+
+> Desde la Fuente de la Ninfa continúa por el sendero en línea recta. Llegarás al Puente de Troncos, identificado como H15 en la guía de la Asociación. El mapa general llama a este mismo conjunto Cascada de las Mosteras, por la vegetación que rodea la caída de agua. Cruza el puente para contemplarla y, al otro lado, encontrarás la Gran Araucaria.
+
+En la narración se puede utilizar “Cascada de las Monsteras” como forma botánicamente coherente, indicando en las notas que el mapa general emplea la grafía “Mosteras”.

@@ -135,3 +135,8 @@ El punto corresponde al número 7 del mapa general. Tras cruzar el Puente Carret
 ## Trabajo de campo adicional — Z2-06 Fuente del Tritón
 
 La Fuente del Tritón no tiene número visible en el mapa general. Cuenta con una pequeña referencia H8 en un cartel clavado en la zona, correspondiente a la guía de rutas de la Asociación de Amigos. Está junto a la gran escalinata de la Casa-Palacio; no se sube todavía. Desde la fuente se toma el sendero de la izquierda, que baja hacia el Puente Peatonal.
+
+
+## Trabajo de campo adicional — Z2-07 Puente Peatonal
+
+El Puente Peatonal no tiene número visible en el mapa general y corresponde a H9 en la guía de rutas de la Asociación. Desde la Fuente del Tritón se baja por el sendero izquierdo. Tras cruzarlo, se sube por el sendero de la derecha y, junto a una pequeña cascada a la izquierda, se toma el sendero izquierdo con escalones hacia el siguiente hito.

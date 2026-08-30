@@ -227,7 +227,21 @@ En VoiceMap conviene incluir:
 - **Ubicación:** junto a la gran escalinata de subida a la Casa-Palacio.
 - **Orientación:** todavía no se sube la escalinata. Desde la fuente se toma el sendero de la izquierda, que baja hacia el Puente Peatonal.
 - **Referencia previa:** es un hito de camino hacia la Casa-Palacio, pero debe tratarse como punto propio porque la escalinata no es la continuación inmediata del recorrido.
+- **Audio:** la Fuente del Tritón tendrá audio propio.
 
 Indicación provisional:
 
 > Has llegado a la Fuente del Tritón, identificada como H8 en la guía de rutas de la Asociación. La gran escalinata que ves conduce hacia la Casa-Palacio, pero todavía no vamos a subirla. Desde la fuente, toma el sendero de la izquierda, que desciende hacia el Puente Peatonal.
+
+
+## Trabajo de campo — Puente Peatonal H9
+
+- **Mapa general:** sin número de referencia visible.
+- **Guía de rutas de la Asociación:** H9.
+- **Acceso:** desde la Fuente del Tritón se toma el sendero de la izquierda y se baja hasta el puente.
+- **Continuación:** una vez cruzado el puente, tomar el sendero que sube a la derecha. Al llegar a una pequeña cascada situada a la izquierda, tomar ese sendero de la izquierda y subir unos escalones hacia el siguiente hito.
+- **Fotografías:** álbum aportado por el proyecto.
+
+Indicación provisional:
+
+> Cruza el Puente Peatonal, identificado como H9 en la guía de la Asociación. Al otro lado, toma el sendero que sube a la derecha. Cuando llegues a una pequeña cascada a tu izquierda, abandona el camino principal, toma el sendero de la izquierda y sube los escalones hacia el siguiente hito.

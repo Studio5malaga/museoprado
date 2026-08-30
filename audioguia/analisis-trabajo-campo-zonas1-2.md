@@ -150,3 +150,8 @@ El Kiosco/Templete Oriental no tiene número en el mapa general y corresponde a 
 ## Trabajo de campo adicional — Z2-09 Jardín de González-Andreu
 
 El Jardín de González-Andreu corresponde al punto 14 del mapa general y a H11-H12 en la guía de la Asociación. Es una zona de gran sombra. Desde allí se sigue en línea recta hasta la parte trasera del Museo Loringiano, que todavía no se visita; se gira a la derecha hacia el Bosquete de Cipreses (H13). Desde el bosquete se cambia de sentido por el sendero superior, paralelo al sendero de González-Andreu, tomando como referencia el estanque alargado de la Ría de la Ninfa.
+
+
+## Trabajo de campo adicional — Cascada de Piedra
+
+Tras la Gran Araucaria se toma el camino de la derecha, en subida, y la primera escalera ascendente que aparece a la derecha. La cascada no tiene referencia en el mapa general ni en la guía de la Asociación y está muy oculta por la vegetación. Las fotografías y carteles del entorno muestran los grandes árboles integrados con la cascada.

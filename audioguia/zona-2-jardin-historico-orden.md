@@ -304,3 +304,18 @@ Indicación provisional:
 > Desde la Fuente de la Ninfa continúa por el sendero en línea recta. Llegarás al Puente de Troncos, identificado como H15 en la guía de la Asociación. El mapa general llama a este mismo conjunto Cascada de las Mosteras, por la vegetación que rodea la caída de agua. Cruza el puente para contemplarla y, al otro lado, encontrarás la Gran Araucaria.
 
 En la narración se puede utilizar “Cascada de las Monsteras” como forma botánicamente coherente, indicando en las notas que el mapa general emplea la grafía “Mosteras”.
+
+
+## Trabajo de campo — acceso a la Cascada de Piedra
+
+- **Mapa general:** sin referencia numérica.
+- **Guía de la Asociación:** sin referencia propia.
+- **Acceso confirmado:** después de la Gran Araucaria se toma el camino de la derecha, en subida. Al encontrar una escalera a la derecha, se sube por ella hasta la Cascada de Piedra.
+- **Característica:** cascada muy oculta por la vegetación; requiere atención para localizar la escalera y el acceso.
+- **Interés:** uno de los rincones menos evidentes y más secretos del jardín. Las fotografías y los carteles del entorno muestran grandes árboles integrados con la cascada.
+
+Indicación provisional:
+
+> Después de contemplar la Gran Araucaria, toma el camino de la derecha y comienza a subir. Presta atención al lateral derecho: cuando encuentres una escalera que asciende entre la vegetación, síguela. La Cascada de Piedra está escondida y no aparece numerada en los mapas, por lo que tendrás que fijarte en el sonido del agua y en la escalera que se abre entre los árboles.
+
+Este acceso sustituye a la indicación anterior que situaba el desvío antes de llegar al Cenador.

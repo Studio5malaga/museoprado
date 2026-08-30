@@ -120,3 +120,8 @@ El usuario confirma que el Paseo de Plátanos corresponde al número 3 del mapa 
 ## Trabajo de campo adicional — Z2-02 Glorieta de Amalia Heredia
 
 La Glorieta corresponde al número 5 del mapa general. Se llega siguiendo el camino ascendente desde el Paseo de Plátanos, sin pérdida. Dispone de fuente de agua potable y asientos, por lo que es un punto adecuado para una pausa breve antes de continuar al Puente Carretero.
+
+
+## Trabajo de campo adicional — Z2-03
+
+El punto corresponde al número 6 del mapa general, donde aparece denominado “Jardín Histórico”. En la guía de la Ruta H, el elemento concreto es el Puente Carretero (H4). Se dispone de fotografías del puente y de su panel informativo. Deben conservarse ambas denominaciones en la tabla técnica: zona general del mapa y hito concreto de la ruta.

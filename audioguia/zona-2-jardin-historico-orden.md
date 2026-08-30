@@ -181,3 +181,18 @@ Tratamiento provisional:
 - **Servicios:** fuente de agua potable y asientos.
 - **Función:** punto adecuado para una parada breve, hidratación y observación antes de continuar hacia el Puente Carretero.
 - **Fotografías:** álbum aportado por el proyecto como referencia del lugar.
+
+
+## Trabajo de campo — Puente Carretero / Jardín Histórico
+
+- **Número del mapa general:** 6.
+- **Denominación del mapa:** Jardín Histórico.
+- **Denominación de la ruta H:** Puente Carretero, H4.
+- **Acceso:** desde la Glorieta de Amalia Heredia, siguiendo el camino ascendente.
+- **Material de apoyo:** panel informativo fotografiado en el punto.
+
+En la audioguía se utilizarán ambas referencias para evitar confusión:
+
+> Estás entrando en el Jardín Histórico. El camino cruza aquí el llamado Puente Carretero, una estructura integrada en el recorrido del agua y de la vegetación.
+
+El número 6 del mapa identifica el área del Jardín Histórico, mientras que H4 identifica específicamente el puente dentro de la guía de rutas.

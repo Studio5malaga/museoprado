@@ -245,3 +245,16 @@ Indicación provisional:
 Indicación provisional:
 
 > Cruza el Puente Peatonal, identificado como H9 en la guía de la Asociación. Al otro lado, toma el sendero que sube a la derecha. Cuando llegues a una pequeña cascada a tu izquierda, abandona el camino principal, toma el sendero de la izquierda y sube los escalones hacia el siguiente hito.
+
+
+## Trabajo de campo — Kiosco Oriental H10
+
+- **Mapa general:** sin número visible.
+- **Guía de rutas de la Asociación:** H10.
+- **Acceso:** desde el Puente Peatonal, subir por el sendero de la derecha; junto a la pequeña cascada tomar el sendero de la izquierda y subir los escalones hasta el Kiosco.
+- **Referencia visual:** estructura de hierro junto a un ejemplar de pata de elefante, *Beaucarnea recurvata*.
+- **Continuación:** desde la pérgola se baja hacia el Jardín de González-Andreu, siguiendo una dirección paralela al camino principal por el que se ha subido y que queda visible abajo a la izquierda.
+
+Indicación provisional:
+
+> Después de subir los escalones llegarás al Kiosco Oriental, identificado como H10 en la guía de la Asociación. Reconócelo por su estructura de hierro y por el árbol conocido como pata de elefante que crece junto a él. Desde esta pérgola, baja hacia el Jardín de González-Andreu por el camino paralelo al sendero principal; podrás ver ese camino abajo, a tu izquierda.

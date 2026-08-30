@@ -140,3 +140,8 @@ La Fuente del Tritón no tiene número visible en el mapa general. Cuenta con un
 ## Trabajo de campo adicional — Z2-07 Puente Peatonal
 
 El Puente Peatonal no tiene número visible en el mapa general y corresponde a H9 en la guía de rutas de la Asociación. Desde la Fuente del Tritón se baja por el sendero izquierdo. Tras cruzarlo, se sube por el sendero de la derecha y, junto a una pequeña cascada a la izquierda, se toma el sendero izquierdo con escalones hacia el siguiente hito.
+
+
+## Trabajo de campo adicional — Z2-08 Kiosco Oriental
+
+El Kiosco/Templete Oriental no tiene número en el mapa general y corresponde a H10 en la guía de la Asociación. Está junto a una *Beaucarnea recurvata*. Se accede desde el Puente Peatonal subiendo a la derecha, tomando después el sendero de la izquierda junto a una pequeña cascada y subiendo escalones. Desde el kiosco se baja hacia González-Andreu por un camino paralelo al principal, visible abajo a la izquierda.

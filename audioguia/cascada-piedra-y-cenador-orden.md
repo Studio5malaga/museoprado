@@ -13,8 +13,8 @@
 8. Llegar a la parte superior de la cascada, conocida en una fotografía histórica como Cascada de Piedra.
 9. Observar la caída de agua oculta entre raíces, lianas, ficus y vegetación densa.
 10. Tomar el canal de agua que discurre junto a la parte superior de la cascada.
-11. Seguir el canal en línea recta hacia el estanque de las Monsteras.
-12. Llegar al estanque de las Monsteras con carpas, situado al fondo del Cenador.
+11. Seguir el canal en línea recta.
+12. Llegar al estanque de las Monsteras con carpas, situado en el extremo del Cenador al que conduce el canal.
 13. Cruzar el Cenador de las Glicinias.
 14. Continuar hacia la entrada principal de la Casa-Palacio.
 15. Visitar el patio interior y observar desde las cristaleras la biblioteca histórica y la exposición.
@@ -89,6 +89,16 @@ Texto provisional para el audio:
 
 > La cascada está integrada entre árboles de procedencias muy distintas. Entre ellos puedes identificar un *Ficus macrophylla*, el ficus de hoja de magnolio, originario de Australia, cuyas raíces y troncos contribuyen a crear este aspecto de jungla. También aparece un *Cupressus lusitanica*, el ciprés de México, procedente de Centroamérica. Dos árboles de continentes diferentes conviven aquí con el agua, las lianas y la vegetación de sombra.
 
+
+## Canal de agua hacia el Cenador
+
+Desde la Cascada de Piedra se retoma el sendero de acceso y se llega al canal de agua. Este canal forma parte del sistema histórico que llevaba agua desde el ramal relacionado con el Acueducto de San Telmo para alimentar las cascadas, fuentes y estanques del jardín.
+
+El canal se sigue en línea recta hasta el estanque de las Monsteras con carpas, situado en el extremo del Cenador de las Glicinias al que conduce este recorrido. La orientación “comienzo/fondo” puede variar según el sentido de entrada, por lo que en el audio se utilizará “el extremo del Cenador al que llega el canal”.
+
+Texto provisional:
+
+> Desde la parte superior de la cascada, sigue el canal de agua. Este era uno de los conductos que distribuían el agua por el jardín y alimentaban sus cascadas y fuentes. Síguelo en línea recta hasta llegar al estanque de las Monsteras, con sus carpas, en el extremo del Cenador de las Glicinias.
 
 ## Fotografías comparativas
 

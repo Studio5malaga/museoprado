@@ -115,3 +115,8 @@ El álbum aportado documenta el rosal de pitiminí, las escaleras de bajada desd
 ## Trabajo de campo adicional — Z2-01 Paseo de Plátanos
 
 El usuario confirma que el Paseo de Plátanos corresponde al número 3 del mapa general. Desde la entrada, la carretera de arena compactada situada justo enfrente inicia la subida. Las fotografías aportadas son remasterizaciones coloreadas de imágenes históricas y se dispone de panel informativo con vistas trasera y frontal.
+
+
+## Trabajo de campo adicional — Z2-02 Glorieta de Amalia Heredia
+
+La Glorieta corresponde al número 5 del mapa general. Se llega siguiendo el camino ascendente desde el Paseo de Plátanos, sin pérdida. Dispone de fuente de agua potable y asientos, por lo que es un punto adecuado para una pausa breve antes de continuar al Puente Carretero.

@@ -171,3 +171,13 @@ Las imágenes coloreadas deben presentarse como remasterizaciones de fotografía
 Tratamiento provisional:
 
 > El camino que sube frente a la entrada es el Paseo de Plátanos. Las imágenes históricas que lo acompañan han sido remasterizadas y coloreadas para ayudarnos a imaginar este mismo recorrido en otra época. Hoy puedes comparar la carretera de arena compactada, la alineación de árboles y la perspectiva hacia la entrada con la imagen histórica del panel.
+
+
+## Trabajo de campo — Glorieta de Amalia Heredia
+
+- **Número del mapa general:** 5.
+- **Acceso:** continuar por el camino ascendente desde el Paseo de Plátanos.
+- **Orientación:** no presenta pérdida ni bifurcación problemática.
+- **Servicios:** fuente de agua potable y asientos.
+- **Función:** punto adecuado para una parada breve, hidratación y observación antes de continuar hacia el Puente Carretero.
+- **Fotografías:** álbum aportado por el proyecto como referencia del lugar.

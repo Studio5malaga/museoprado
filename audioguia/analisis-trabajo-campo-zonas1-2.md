@@ -125,3 +125,8 @@ La Glorieta corresponde al número 5 del mapa general. Se llega siguiendo el cam
 ## Trabajo de campo adicional — Z2-03
 
 El punto corresponde al número 6 del mapa general, donde aparece denominado “Jardín Histórico”. En la guía de la Ruta H, el elemento concreto es el Puente Carretero (H4). Se dispone de fotografías del puente y de su panel informativo. Deben conservarse ambas denominaciones en la tabla técnica: zona general del mapa y hito concreto de la ruta.
+
+
+## Trabajo de campo adicional — Z2-04 Teatrillo y busto
+
+El punto corresponde al número 7 del mapa general. Tras cruzar el Puente Carretero se toma el sendero de la izquierda. El Teatrillo y el busto de Amalia Heredia están en el mismo conjunto y cuentan con dos paneles informativos. Hay fotografías históricas remasterizadas y coloreadas de las representaciones teatrales. Desde este punto aumenta notablemente la complejidad de los caminos, por lo que el mapa dibujado con el trayecto marcado debe utilizarse como apoyo de navegación.

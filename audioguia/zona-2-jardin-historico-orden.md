@@ -196,3 +196,24 @@ En la audioguía se utilizarán ambas referencias para evitar confusión:
 > Estás entrando en el Jardín Histórico. El camino cruza aquí el llamado Puente Carretero, una estructura integrada en el recorrido del agua y de la vegetación.
 
 El número 6 del mapa identifica el área del Jardín Histórico, mientras que H4 identifica específicamente el puente dentro de la guía de rutas.
+
+
+## Trabajo de campo — Teatrillo y busto de Amalia Heredia
+
+- **Número del mapa general:** 7.
+- **Acceso:** al cruzar el Puente Carretero, tomar el sendero de la izquierda.
+- **Punto:** el Teatrillo y el busto de Amalia Heredia se encuentran en el mismo conjunto.
+- **Información:** hay dos paneles: uno más próximo al busto y otro algo más atrás dedicado al Teatrillo.
+- **Material visual:** fotografías remasterizadas y coloreadas de la época de las representaciones teatrales.
+- **Navegación:** hasta este punto el camino es sencillo; a partir de aquí comienzan varias opciones de senderos y el trazado laberíntico del jardín.
+
+### Decisión de orientación
+
+Desde el Teatrillo no se debe dar una instrucción genérica del tipo “sigue el camino”. La audioguía debe activar el mapa dibujado como apoyo visual y describir el siguiente destino mediante una referencia concreta. El mapa será una ayuda complementaria, no un sustituto de la indicación hablada.
+
+En VoiceMap conviene incluir:
+
+- Una imagen del plano con el recorrido marcado, si la plataforma lo permite.
+- Una pista de transición con el siguiente hito claramente nombrado.
+- Una advertencia de que existen varios caminos y que el visitante debe comprobar la dirección antes de avanzar.
+- Una alternativa de recuperación si toma un sendero equivocado.
